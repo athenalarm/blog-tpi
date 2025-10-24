@@ -1,5 +1,5 @@
 ---
-title: "Athenalarm – Soo Saaraha Alaarka Burcad-badeedka ee Xirfadda Leh & Xalka Kormeerka Alaarmiga Shabakadda"
+title: "Athenalarm – Producător Profesional de Sisteme Antiefracție & Soluții de Monitorizare a Alarmelor prin Rețea"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 type: "posts"
@@ -7,67 +7,67 @@ type: "posts"
 
 ![Athenalarm Logo](https://athenalarm.com/wp-content/uploads/2025/05/athenalarm_home.png)
 
-## Guudmarka
+## Prezentare generală
 
-La aasaasay 2006, Athenalarm waa soo saaraha alaarmiga burcad-badeedka ee xirfadda leh, kaas oo ku takhasusay nidaamyada alaarmiga gelitaanka iyo kormeerka alaarmiga shabakadda. Alaabtayadu waxay bixiyaan xalal amni oo la isku halleyn karo oo wax ku ool ah ganacsiyada, hay'adaha, iyo bulshooyinka degaanka. Waxaan diiradda saarnaa nidaamyada alaarmiga gelitaanka heer warshadeed ee isku dara alaarmiga gelitaanka iyo CCTV si loo xaqiijiyo waqtiga-dhabta ah, taageeraya ogaanshaha fog iyo maareynta dhexe. Nidaamyadani waxay ku habboon yihiin qaybaha kala duwan sida bangiyada, waxbarashada, dukaamada, caafimaadka, iyo bulshooyinka degaanka, waxaana lagu kalsoon yahay macaamiisha adduunka oo dhan.
+Fondată în 2006, Athenalarm este un producător profesional de sisteme antiefracție, specializat în alarme de intruziune și soluții de monitorizare a alarmelor prin rețea. Produsele noastre oferă soluții de securitate fiabile și practice pentru afaceri, instituții și comunități rezidențiale. Ne concentrăm pe sisteme de alarmă de nivel industrial care combină alarmele de intruziune cu CCTV pentru verificare în timp real, oferind diagnosticare la distanță și gestionare centralizată. Aceste sisteme sunt potrivite pentru diverse sectoare, inclusiv bănci, educație, retail, sănătate și comunități rezidențiale, fiind de încredere pentru clienți din întreaga lume.
 
-Kala-duwanaanshaha alaabtayada wuxuu daboolaa **AS-9000 Taxanaha Guddiyada Alaarmiga**, **Xalka Kormeerka Alaarmiga Shabakadda**, **AA-100 Taxanaha Xusuusinta Codka**, **Ogaanshaha Alaarmiga**, nidaamyada guriga casriga ah, iyo qalabka xusuusinta codka. Alaabtan alaarmiga burcad-badeedka waxay bixiyaan daboolid amni oo dhameystiran oo loogu talagalay codsiyo kala duwan, laga bilaabo xawaaladaha bangiyada ilaa hareeraha bulshada iyo xarumaha shirkadaha.
+Gama noastră extinsă de produse acoperă panouri de alarmă, software de alarmă, senzori de mișcare, detectoare de alarmă, componente de alarmă, sisteme pentru case inteligente și dispozitive de avertizare vocală. Aceste produse antiefracție oferă acoperire completă de securitate pentru diverse aplicații, de la seifuri bancare până la perimetre comunitare și facilități ale companiilor.
 
-Intaa waxaa dheer, waxaan bixinaa adeegyo OEM iyo sumad gaar ah, taasoo u oggolaanaysa la-hawlgalayaasha inay soo saaraan nidaamyada alaarmiga gaarka ah ee summadda leh iyadoo la habaynayo qalabka, buugaag badan oo luqado ah, iyo taageero baakadaha. Haddii aad tahay qaybiyaha, isdhexgalaha, ama isticmaale dhammaad, alaabaha Athenalarm waxay u oggolaanayaan rakibid sahlan oo xalal amni xirfadeed ah adduunka oo dhan.
+În plus, oferim servicii OEM și de personalizare a mărcii, permițând partenerilor să lanseze sisteme de alarmă antiefracție sub etichetă proprie, cu personalizare hardware, manuale multilingve și suport pentru ambalare. Indiferent dacă sunteți distribuitor, integrator sau utilizator final, ofertele Athenalarm permit implementarea fără probleme a soluțiilor profesionale de securitate la nivel global.
 
 ![Athenalarm Factory](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-factory-03-540.jpg)
 
-## Alaabooyinka
+## Produse
 
-![Industrial AS-9000 series alarm panels installed in a commercial complex](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-burglar-alarms-1024.jpg)
+![Panouri de alarmă industriale din seria AS-9000 instalate într-un complex comercial](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-burglar-alarms-1024.jpg)
 
-| Khad Alaab | Faa'iidooyinka Muhiimka ah | Ku Haboon |
-|------------|---------------------------|-----------|
-| AS-9000 Taxanaha Guddiyada Alaarmiga | Isgaarsiin kanaalo badan (PSTN, 4G, TCP/IP), aagag ballaaran (16 xadhig, 30 wireless, ilaa 1,656 iyada oo loo marayo modules), keypad LCD oo leh tilmaamaha codka, ogaanshaha faragelinta, diiwaangelinta dhacdooyinka otomaatiga ah | Bangiyada, beero warshadeed, iskuulo, xarumo ganacsi, bulshooyinka degaanka |
-| Xalka Kormeerka Alaarmiga Shabakadda | Maareyn dhexe, isku dara alaarmiyada gelitaanka iyo CCTV & madal daruur, pop-ups alaarmiga waqtiga-dhabta ah, duubista fiidiyowga, gudbinta heerar badan, ogaanshaha fog | Laamiyada bangiyada, ATM-yada, xawaaladaha, hoteelada, dukaamada, shirkadaha, hareeraha, bulshooyinka degaanka |
-| AA-100 Taxanaha Xusuusinta Codka | Ogeysiisyada codka la habeyn karo (MP3), ciyaar laba-geesood ah, habka aamusnaanta alaarmiga, isku xirnaanta xadhig/wireless, labo hab iftiin | Meelaha ganacsiga, isbitaallada, xafiisyada, hoteelada, bangiyada, bakhaarada, goobaha degaanka |
-| Ogaanshaha Alaarmiga | Dareemayaasha dhaqdhaqaaqa PIR (AT-805, AT-806), ogaanshaha qiiqa iftiinka (AS-603PC), ogaanshaha gaaska (AS-705), ogaanshaha gariirka digital (AS-971), xiriirka albaabka (AA-56), batoonka deg-degga (AA-28B, AA-07) | Guryaha, xafiisyada, bangiyada, hoteelada, isbitaallada, bakhaarada, meelaha ganacsiga |
-| Nidaamyada Guriga Casriga ah | Nidaamka alaarmiga GSM/WIFI (AS-6000), isku dara dareemayaasha kale iyo panels-ka si loo helo ogeysiis otomaatig ah iyo kormeer fog | Bulshooyinka degaanka, xafiisyada, ganacsiyada yaryar |
+| Linie de produse | Beneficii cheie | Ideal pentru |
+|------------------|----------------|---------------|
+| Seria AS-9000 Panouri de alarmă | Comunicare pe canale multiple (PSTN, 4G, TCP/IP), zone extensibile (16 cablate, 30 wireless, până la 1.656 prin module), tastatură LCD cu comenzi vocale, detecție de sabotaj, înregistrare automată a evenimentelor | Bănci, parcuri industriale, școli, complexe comerciale, comunități rezidențiale |
+| Soluții de monitorizare a alarmelor prin rețea | Gestionare centralizată, integrează alarmele de intruziune cu CCTV și platforme cloud, alerte în timp real, înregistrare video, redirecționare pe mai multe niveluri, diagnosticare de la distanță | Sucursale bancare, bancomate, seifuri, hoteluri, magazine, întreprinderi, perimetre, comunități rezidențiale |
+| Seria AA-100 Dispozitive de avertizare vocală | Alerte vocale personalizabile (MP3), redare bidirecțională, mod silențios de alarmă, integrare cablată/senza fir, moduri duble de iluminare | Spații comerciale, spitale, birouri, hoteluri, bănci, depozite, locații rezidențiale |
+| Detectoare de alarmă | Senzori PIR de mișcare (AT-805, AT-806), detector fotoelectric de fum (AS-603PC), detector de gaz (AS-705), detector digital de vibrații (AS-971), contact magnetic pentru uși (AA-56), butoane de panică (AA-28B, AA-07) | Locuințe, birouri, bănci, hoteluri, spitale, depozite, spații comerciale |
+| Sisteme pentru case inteligente | Sistem de alarmă GSM/WIFI (AS-6000), se integrează cu alți senzori și panouri pentru alerte automate și monitorizare de la distanță | Comunități rezidențiale, birouri, mici afaceri |
 
-[Daawo Fiidiyoow 1](https://www.youtube.com/watch?v=fxNFCblKrTA)  
-[Daawo Fiidiyoow 2](https://www.youtube.com/watch?v=FouMQpGDZNk)
+[Urmărește videoclipul 1](https://www.youtube.com/watch?v=fxNFCblKrTA)  
+[Urmărește videoclipul 2](https://www.youtube.com/watch?v=FouMQpGDZNk)
 
-## Adeegyada OEM & Sumad Gaar ah
+## Servicii OEM & Personalizare a mărcii
 
-Waxaan bixinaa xalal sumad gaar ah iyo kuwa habeyn gaar ah oo loogu talagalay qaybiyayaasha iyo isdhexgalayaasha: habaynta qalabka, buugaag badan oo luqado ah, baakadaha, iyo taageero sumadeyn. Waxay u oggolaaneysaa la-hawlgalayaasha inay si degdeg ah oo xirfad leh u bilaabaan alaab alaarmiga burcad-badeedka oo sumad leh.
+Oferim soluții personalizate și de tip private-label pentru distribuitori și integratori: personalizare hardware, manuale multilingve, ambalare și suport pentru branding. Acest lucru permite partenerilor să lanseze rapid și profesionist produse de alarmă antiefracție sub propria marcă.
 
-Ku Haboon: Qaybiyayaasha iyo isdhexgalayaasha bilaabaya alaab amni oo sumad leh
+Ideal pentru: distribuitori și integratori care lansează produse de securitate de marcă proprie
 
-[Fiiri Tusaalaha OEM](https://www.instagram.com/p/CTj0hpEjxJ0/)
+[Vezi exemplu OEM](https://www.instagram.com/p/CTj0hpEjxJ0/)
 
-## Sababta Athenalarm U Gaarka Tahay
+## De ce Athenalarm se remarcă
 
-- Khibrad La Caddeeyey: Tan iyo 2006, bixinta xalal alaarmiga gelitaanka iyo burcad-badeedka oo la isku halleyn karo macaamiisha adduunka oo dhan.  
-- Codsiyo Kala Duwan: Ku haboon bangiyada, hoteelada, dukaamada, bulshooyinka, xafiisyada, iyo in ka badan—isku dar alaarmiyada, CCTV, iyo tiknoolajiyada daruuraha si loo helo maareyn dhexe.  
-- Hal-abuurnimo Dhaqaale: Nidaamyo si sahlan loo rakibo leh isgaarsiin kanaalo badan (PSTN, 4G, TCP/IP) iyo sifooyin ballaaran qiimo tartan leh.  
-- Raalli-gelinta Macaamiisha: Lagu kalsoon yahay macaamiisha adduunka oo dhan alaab iyo nidaamyo amni oo la isku halleyn karo.
+- Expertiză dovedită: Din 2006, furnizăm soluții scalabile de alarme de intruziune și antiefracție de încredere la nivel global.  
+- Aplicații versatile: Ideal pentru bănci, hoteluri, magazine, comunități, birouri și multe altele — combinând alarme, CCTV și tehnologie cloud pentru control centralizat.  
+- Inovație rentabilă: Sisteme ușor de instalat, cu comunicare pe canale multiple (PSTN, 4G, TCP/IP) și funcții extensibile la prețuri competitive.  
+- Satisfacția clienților: De încredere pentru clienți din întreaga lume datorită produselor și sistemelor de securitate fiabile.
 
-[Fiiri Daraasadaha Rakibaadda Macaamiisha](https://www.instagram.com/p/DJ0VWautwqA/?img_index=2)
+[Vezi studii de caz pentru instalările clienților](https://www.instagram.com/p/DJ0VWautwqA/?img_index=2)
 
-## Markhaatiyada Macaamiisha
+## Mărturii ale clienților
 
-- “Alaarmiga gelitaanka waa fiican yahay, waxaan rakibay hal set waana shaqeeyaa si weyn.” – Rabeah Arnous, CEO  
-- “Nidaam cajiib ah…Waan rakibay waana macaamiishaydu aad bay ugu qanacsan tahay. Qiimeynta 5-xiddig.” – Bassey Tom, CEO  
-- “Nidaamka kormeerka alaarmiga shabakadda waa aad u fiican, fududahay in la isticmaalo, fududahay in la rakibo, iyo gudbinta waqtiga-dhabta ah. Waxaan sugaynaa dalabkeena xiga.” – Ben Takan, Kooxda Amniga
+- „Sistemul de alarmă de intruziune este excelent, am instalat un set și funcționează perfect.” – Rabeah Arnous, CEO  
+- „Sistem uimitor… L-am instalat și clientul meu a fost foarte mulțumit. Evaluare de 5 stele.” – Bassey Tom, CEO  
+- „Sistemul de monitorizare a alarmelor prin rețea este foarte bun, ușor de utilizat, ușor de instalat și transmite în timp real. Așteptăm cu nerăbdare următoarea comandă.” – Ben Takan, Coordonator de securitate
 
-## Bilow Hadda
+## Începe acum
 
-Haddii aad tahay isdhexgalaha amniga, qaybiyaha, ama isticmaale dhammaad, Athenalarm waxay bixisaa alaab alaarmiga burcad-badeedka oo tayo sare leh iyo nidaamyada alaarmiga gelitaanka oo loogu talagalay baahiyahaaga.
+Indiferent dacă sunteți integrator de securitate, distribuitor sau utilizator final, Athenalarm oferă produse de alarmă antiefracție și sisteme de alarmă de intruziune de înaltă calitate, adaptate nevoilor dumneavoastră.
 
-[Booqo Athenalarm.com Hadda – Hel Qiime Bilaash Maanta!](https://athenalarm.com/)
+[Vizitează Athenalarm.com acum – Obține o cotație gratuită astăzi!](https://athenalarm.com/)
 
-## Nala Soo Xiriir Si Toos ah
+## Contactați-ne direct
 
-- Bogga Internetka: [https://athenalarm.com/](https://athenalarm.com/)  
-- Iimayl: [info@athenalarm.com](mailto:info@athenalarm.com)  
-- Moobil/WhatsApp/Viber: [+86 13662299642](https://api.whatsapp.com/send?phone=8613662299642)
+- Site web: [https://athenalarm.com/](https://athenalarm.com/)  
+- E-mail: [info@athenalarm.com](mailto:info@athenalarm.com)  
+- Mobil/WhatsApp/Viber: [+86 13662299642](https://api.whatsapp.com/send?phone=8613662299642)
 
-## Nala Soco
+## Urmărește-ne
 
 - [YouTube](https://www.youtube.com/channel/UCP0_Wg3aylBn69eBIH2Fazg)  
 - [LinkedIn](https://www.linkedin.com/company/athenalarm/)  

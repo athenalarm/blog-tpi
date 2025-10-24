@@ -1,31 +1,31 @@
 ---
-title: "La Xiriir"
+title: "Contact"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 ---
 
-Waxaan halkan u joognaa inaan kaa caawino helidda alaabada ugu fiican ee digniinta burcad-badeedka iyo xalka amniga ee ganacsigaaga. Haddii aad u baahan tahay taageero farsamo, faahfaahinta qaybinta, ama macluumaadka iskaashiga, kooxdayada khibradda leh ayaa diyaar u ah inay ku caawiyaan.
+Suntem aici pentru a vă ajuta să găsiți cele mai bune produse de alarmă antiefracție și soluții de securitate pentru afacerea dvs. Indiferent dacă aveți nevoie de asistență tehnică, detalii despre distribuție sau informații despre parteneriate, echipa noastră cu experiență este pregătită să vă ofere suportul necesar.
 
-## 📍 La Xiriir Athenalarm
+## 📍 Contactați Athenalarm
 
-**Cinwaanka:**  
+**Adresă:**  
 D910, Silver Star Scientific and Technical Building,  
 Guanlan, Longhua, Shenzhen, Guangdong, China  
 
-**Iimaylka:**  
+**Email:**  
 [info@athenalarm.com](mailto:info@athenalarm.com)
 
-**Taleefanka / WhatsApp / Viber:**  
+**Mobil / WhatsApp / Viber:**  
 [+86 136 6229 9642](https://api.whatsapp.com/send?phone=8613662299642)
 
-**Bogga Internetka:**  
+**Website:**  
 [https://athenalarm.com](https://athenalarm.com)
 
 ---
 
-## 🌐 Nala Xiriir
+## 🌐 Conectați-vă cu noi
 
-La soco hal-abuurkeena ugu dambeeyay ee amniga, daraasadaha kiisaska, iyo soo-saarka alaabta:
+Rămâneți la curent cu cele mai recente inovații în domeniul securității, studii de caz și lansări de produse:
 
 - [LinkedIn](https://www.linkedin.com/company/athenalarm)
 - [Facebook](https://www.facebook.com/athenalarm)
@@ -36,4 +36,4 @@ La soco hal-abuurkeena ugu dambeeyay ee amniga, daraasadaha kiisaska, iyo soo-sa
 
 ---
 
-> _Athenalarm — Soo-saare Khabiir ah oo Digniinta Burcad-badeedka & Nidaamyada Kormeerka Shabakadda Amniga._
+> _Athenalarm — Producător profesionist de sisteme de alarmă antiefracție și soluții de monitorizare a alarmelor prin rețea._
