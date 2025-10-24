@@ -1,31 +1,31 @@
 ---
-title: "Aloqa"
+title: "La Xiriir"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 ---
 
-Biz sizning biznesingiz uchun eng yaxshi o‘g‘rilik signalizatsiyasi mahsulotlari va xavfsizlik yechimlarini topishda yordam berishga tayyormiz. Sizga texnik yordam, distribyutorlik tafsilotlari yoki hamkorlik ma'lumotlari kerak bo‘lsa ham, tajribali jamoamiz yordam berishga tayyor.
+Waxaan halkan u joognaa inaan kaa caawino helidda alaabada ugu fiican ee digniinta burcad-badeedka iyo xalka amniga ee ganacsigaaga. Haddii aad u baahan tahay taageero farsamo, faahfaahinta qaybinta, ama macluumaadka iskaashiga, kooxdayada khibradda leh ayaa diyaar u ah inay ku caawiyaan.
 
-## 📍 Athenalarm bilan Aloqa
+## 📍 La Xiriir Athenalarm
 
-**Manzil:**  
+**Cinwaanka:**  
 D910, Silver Star Scientific and Technical Building,  
-Guanlan, Longhua, Shenzhen, Guangdong, Xitoy  
+Guanlan, Longhua, Shenzhen, Guangdong, China  
 
-**Elektron pochta:**  
+**Iimaylka:**  
 [info@athenalarm.com](mailto:info@athenalarm.com)
 
-**Mobil / WhatsApp / Viber:**  
+**Taleefanka / WhatsApp / Viber:**  
 [+86 136 6229 9642](https://api.whatsapp.com/send?phone=8613662299642)
 
-**Veb-sayt:**  
+**Bogga Internetka:**  
 [https://athenalarm.com](https://athenalarm.com)
 
 ---
 
-## 🌐 Biz bilan bog‘laning
+## 🌐 Nala Xiriir
 
-So‘nggi xavfsizlik innovatsiyalari, ish holatlari va mahsulot yangiliklarimizdan xabardor bo‘ling:
+La soco hal-abuurkeena ugu dambeeyay ee amniga, daraasadaha kiisaska, iyo soo-saarka alaabta:
 
 - [LinkedIn](https://www.linkedin.com/company/athenalarm)
 - [Facebook](https://www.facebook.com/athenalarm)
@@ -36,4 +36,4 @@ So‘nggi xavfsizlik innovatsiyalari, ish holatlari va mahsulot yangiliklarimizd
 
 ---
 
-> _Athenalarm — Professional O‘g‘rilik Signalizatsiyasi Ishlab Chiqaruvchisi & Tarmoq Signalizatsiyasini Monitoring Qilish Yechimlari._
+> _Athenalarm — Soo-saare Khabiir ah oo Digniinta Burcad-badeedka & Nidaamyada Kormeerka Shabakadda Amniga._
