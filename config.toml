@@ -1,7 +1,7 @@
 # Website Basic Information
-baseURL = "https://blogsi.athenalarm.com/"    # Placeholder URL, change to Cloudflare Pages URL after deployment
-title = "Athenalarm බ්ලොග්"
-languageCode = "si"
+baseURL = "https://blogne.athenalarm.com/"    # Placeholder URL, change to Cloudflare Pages URL after deployment
+title = "Athenalarm ब्लग"
+languageCode = "ne"
 theme = "ananke"
 
 # Author Information (optional)
@@ -13,24 +13,24 @@ theme = "ananke"
 [menu]
   [[menu.main]]
     identifier = "home"
-    name = "මුල් පිටුව"
+    name = "गृहपृष्ठ"
     url = "/"
     weight = 1
 
   [[menu.main]]
     identifier = "posts"
-    name = "පළ කිරීම්"
+    name = "ब्लगहरू"
     url = "/posts/"
     weight = 2
 
   [[menu.main]]
     identifier = "contact"
-    name = "අප අමතන්න"
+    name = "सम्पर्क"
     url = "/contact/"
     weight = 3
 
 # ---------------------------
 # Home Page Settings
 # ---------------------------
-paginate = 5          # මුල් පිටුවේ නවතම ලිපි 5ක් පෙන්වන්න
-mainSections = ["posts"]  # මුල් පිටුවේ "posts" වර්ගයේ ලිපි පමණක් පෙන්වන්න
+paginate = 5          # 首页显示最新 5 篇文章
+mainSections = ["posts"]  # Home 页面只显示 type 为 "posts" 的文章
