@@ -1,5 +1,5 @@
 ---
-title: "Athenalarm – Profesionalni Proizvođač Protuprovalnih Alarmnih Sistema & Rešenja za Mrežno Praćenje Alarma"
+title: "Athenalarm – Peşəkar Oğruluq Əleyhinə Siqnalizasiya İstehsalçısı və Şəbəkə Siqnalizasiya İzləmə Həlləri"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 type: "posts"
@@ -7,67 +7,67 @@ type: "posts"
 
 ![Athenalarm Logo](https://athenalarm.com/wp-content/uploads/2025/05/athenalarm_home.png)
 
-## Pregled
+## Ümumi Baxış
 
-Osnovan 2006. godine, Athenalarm je profesionalni proizvođač protuprovalnih alarma specijalizovan za sisteme za detekciju upada i mrežnog nadzora alarma. Naši proizvodi pružaju pouzdana i praktična sigurnosna rešenja za preduzeća, institucije i stambene zajednice. Fokusiramo se na industrijske sisteme protuprovalnih alarma koji kombinuju detektore upada sa CCTV-om za verifikaciju u realnom vremenu, podržavajući daljinsku dijagnostiku i centralizovano upravljanje. Ovi sistemi su pogodni za razne sektore, uključujući bankarstvo, obrazovanje, maloprodaju, zdravstvenu zaštitu i stambene zajednice, i pouzdano ih koriste klijenti širom sveta.
+2006-cı ildə əsası qoyulmuş Athenalarm, müdaxilə siqnalizasiya və şəbəkə siqnalizasiya izləmə sistemləri üzrə ixtisaslaşmış peşəkar bir oğruluq əleyhinə siqnalizasiya istehsalçısıdır. Məhsullarımız müəssisələr, təşkilatlar və yaşayış icmaları üçün etibarlı və praktik təhlükəsizlik həlləri təqdim edir. Biz real vaxtda təsdiqləmə üçün CCTV ilə birləşdirilmiş sənaye səviyyəli müdaxilə siqnalizasiya sistemlərinə diqqət yetiririk, uzaqdan diaqnostika və mərkəzləşdirilmiş idarəetməni dəstəkləyirik. Bu sistemlər bankçılıq, təhsil, pərakəndə satış, səhiyyə və yaşayış icmaları kimi müxtəlif sahələr üçün uyğundur və dünyanın dörd bir yanındakı müştərilər tərəfindən etibar edilir.
 
-Naš širok asortiman proizvoda obuhvata alarmne panele, alarmni softver, senzore pokreta, detektore alarma, komponente alarma, pametne kućne sisteme i uređaje za glasovne podsetnike. Ovi protuprovalni alarmi pružaju sveobuhvatnu sigurnosnu pokrivenost za razne primene, od bankovnih trezora do perimetara zajednica i poslovnih objekata.
+Geniş məhsul çeşidimiz siqnalizasiya panellərini, siqnalizasiya proqram təminatını, hərəkət sensorlarını, siqnalizasiya detektorlarını, siqnalizasiya komponentlərini, ağıllı ev sistemlərini və səs xəbərdarlığı cihazlarını əhatə edir. Bu oğruluq əleyhinə siqnalizasiya məhsulları bank anbarlarından icma perimetrlərinə və müəssisə obyektlərinə qədər müxtəlif tətbiqlər üçün hərtərəfli təhlükəsizlik təmin edir.
 
-Pored toga, nudimo OEM i usluge prilagođenog brendiranja, omogućavajući partnerima lansiranje sistema protuprovalnih alarma pod privatnom etiketom sa prilagođenim hardverom, višejezičnim uputstvima i podrškom za pakovanje. Bilo da ste distributer, integrator ili krajnji korisnik, Athenalarm-ova ponuda omogućava jednostavno implementiranje profesionalnih sigurnosnih rešenja širom sveta.
+Bundan əlavə, biz OEM və xüsusi brendləşdirmə xidmətləri təklif edirik ki, tərəfdaşlar öz xüsusi markalı müdaxilə siqnalizasiya sistemlərini aparat fərdiləşdirməsi, çoxdilli təlimatlar və qablaşdırma dəstəyi ilə bazara çıxara bilsinlər. Siz distribyutor, inteqrator və ya son istifadəçi olmağınızdan asılı olmayaraq, Athenalarm təklifləri dünyada peşəkar təhlükəsizlik həllərinin problemsiz şəkildə tətbiqini təmin edir.
 
 ![Athenalarm Factory](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-factory-03-540.jpg)
 
-## Proizvodi
+## Məhsullar
 
-![Industrial AS-9000 series alarm panels installed in a commercial complex](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-burglar-alarms-1024.jpg)
+![Ticarət kompleksində quraşdırılmış sənaye AS-9000 seriyalı siqnalizasiya panelləri](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-burglar-alarms-1024.jpg)
 
-| Linija Proizvoda | Ključne Prednosti | Idealno Za |
-|-----------------|-----------------|------------|
-| AS-9000 Serija Alarmnih Panela | Višekanalska komunikacija (PSTN, 4G, TCP/IP), proširive zone (16 žičanih, 30 bežičnih, do 1.656 preko modula), LCD tastatura sa glasovnim uputstvima, detekcija sabotaže, automatsko beleženje događaja | Banke, industrijski parkovi, škole, poslovni kompleksi, stambene zajednice |
-| Rešenja za Mrežno Praćenje Alarma | Centralizovano upravljanje, integriše protuprovalne alarme sa CCTV-om i cloud platformama, pop-up upozorenja u realnom vremenu, snimanje video zapisa, višeslojno prosleđivanje, daljinska dijagnostika | Filijale banaka, bankomati, trezori, hoteli, prodavnice, preduzeća, perimetri, stambene zajednice |
-| AA-100 Serija Glasovnih Podsetnika | Prilagodljiva glasovna upozorenja (MP3), dvosmerno reprodukovanje, režim isključenja alarma, integracija žičana/bežična, dva režima osvetljenja | Maloprodajni prostori, bolnice, kancelarije, hoteli, banke, skladišta, stambeni objekti |
-| Detektori Alarma | PIR senzori pokreta (AT-805, AT-806), fotoelektrični detektor dima (AS-603PC), detektor gasa (AS-705), digitalni detektor vibracija (AS-971), kontakt vrata (AA-56), tasteri panike (AA-28B, AA-07) | Kuće, kancelarije, banke, hoteli, bolnice, skladišta, maloprodajni prostori |
-| Pametni Kućni Sistemi | GSM/WIFI alarmni sistem (AS-6000), integriše se sa drugim senzorima i panelima za automatska upozorenja i daljinski nadzor | Stambene zajednice, kancelarije, mala preduzeća |
+| Məhsul Xətti | Əsas Üstünlüklər | Uyğun Sahələr |
+|--------------|------------------|----------------|
+| AS-9000 Series Siqnalizasiya Panelləri | Çoxkanallı rabitə (PSTN, 4G, TCP/IP), genişlənə bilən zonalar (16 simli, 30 simsiz, modullar vasitəsilə 1,656-a qədər), səs göstərişləri ilə LCD klaviatura, sabotaj aşkarlanması, avtomatik hadisə qeydi | Banklar, sənaye parkları, məktəblər, ticarət kompleksləri, yaşayış icmaları |
+| Şəbəkə Siqnalizasiya İzləmə Həlləri | Mərkəzləşdirilmiş idarəetmə, müdaxilə siqnalizasiya sistemlərini CCTV və bulud platformaları ilə birləşdirir, real vaxt siqnal pop-upları, video yazma, çoxsəviyyəli yönləndirmə, uzaqdan diaqnostika | Bank şöbələri, bankomatlar, anbarlar, otellər, mağazalar, müəssisələr, perimetrlər, yaşayış icmaları |
+| AA-100 Series Səs Xəbərdarlıqları | Fərdiləşdirilə bilən səs xəbərdarlıqları (MP3), ikitərəfli oxutma, səssiz siqnal rejimi, simli/simsiz inteqrasiya, ikiqat işıqlandırma rejimi | Pərakəndə məkanlar, xəstəxanalar, ofislər, otellər, banklar, anbarlar, yaşayış yerləri |
+| Siqnalizasiya Detektorları | PIR hərəkət sensorları (AT-805, AT-806), fotoelektrik tüstü detektoru (AS-603PC), qaz detektoru (AS-705), rəqəmsal vibrasiya detektoru (AS-971), qapı kontaktı (AA-56), panik düymələri (AA-28B, AA-07) | Ev, ofis, bank, otel, xəstəxana, anbar, pərakəndə məkanlar |
+| Ağıllı Ev Sistemləri | GSM/WIFI siqnalizasiya sistemi (AS-6000), avtomatik xəbərdarlıqlar və uzaqdan izləmə üçün digər sensorlar və panellərlə inteqrasiya olunur | Yaşayış icmaları, ofislər, kiçik bizneslər |
 
-[Pogledaj Video 1](https://www.youtube.com/watch?v=fxNFCblKrTA)  
-[Pogledaj Video 2](https://www.youtube.com/watch?v=FouMQpGDZNk)
+[Video 1-ə baxın](https://www.youtube.com/watch?v=fxNFCblKrTA)  
+[Video 2-ə baxın](https://www.youtube.com/watch?v=FouMQpGDZNk)
 
-## OEM & Usluge Prilagođenog Brendiranja
+## OEM və Xüsusi Brendləşdirmə Xidmətləri
 
-Nudimo rešenja pod privatnom etiketom i prilagođena rešenja za distributere i integratore: prilagođavanje hardvera, višejezična uputstva, pakovanje i podrška za brendiranje. Omogućava partnerima brzo i profesionalno lansiranje proizvoda protuprovalnih alarma sa brendom.
+Biz distribyutorlar və inteqratorlar üçün özəl marka və xüsusi həllər təqdim edirik: aparat fərdiləşdirməsi, çoxdilli təlimatlar, qablaşdırma və brendləşdirmə dəstəyi. Bu, tərəfdaşlara markalı oğruluq əleyhinə siqnalizasiya məhsullarını tez və peşəkar şəkildə təqdim etməyə imkan verir.
 
-Idealno Za: Distributere i integratore koji lansiraju proizvode sigurnosnog sistema sa brendom
+Uyğundur: Brendli təhlükəsizlik məhsullarını bazara çıxaran distribyutorlar və inteqratorlar üçün
 
-[Pogledaj OEM Primer](https://www.instagram.com/p/CTj0hpEjxJ0/)
+[OEM Nümunəsinə baxın](https://www.instagram.com/p/CTj0hpEjxJ0/)
 
-## Zašto Athenalarm Izdvaja
+## Niyə Athenalarm Fərqlənir
 
-- Dokazana Stručnost: Od 2006. godine pruža skalabilna rešenja za detekciju upada i protuprovalne alarme koja klijenti širom sveta koriste sa poverenjem.  
-- Svestrane Primene: Idealno za banke, hotele, prodavnice, zajednice, kancelarije i više—kombinuje alarme, CCTV i cloud tehnologiju za centralizovanu kontrolu.  
-- Inovacija Pristupačna Cena: Lako instalabilni sistemi sa višekanalskom komunikacijom (PSTN, 4G, TCP/IP) i proširivim funkcijama po konkurentnim cenama.  
-- Zadovoljstvo Klijenata: Klijenti širom sveta veruju u pouzdane sigurnosne proizvode i sisteme.
+- Sübut olunmuş Təcrübə: 2006-cı ildən bəri, dünya miqyasında etibar qazanmış genişlənə bilən müdaxilə və oğruluq əleyhinə siqnalizasiya həlləri təqdim edir.  
+- Çoxfunksiyalı Tətbiqlər: Banklar, otellər, mağazalar, icmalar, ofislər və daha çox yerlər üçün uyğundur — siqnalizasiya, CCTV və bulud texnologiyasını mərkəzləşdirilmiş idarəetmə üçün birləşdirir.  
+- Səmərəli İnnovasiya: Asan quraşdırılan sistemlər, çoxkanallı rabitə (PSTN, 4G, TCP/IP) və rəqabətqabiliyyətli qiymətlərlə genişlənə bilən xüsusiyyətlər təklif edir.  
+- Müştəri Məmnuniyyəti: Etibarlı təhlükəsizlik məhsulları və sistemləri ilə qlobal müştərilər tərəfindən etibar edilir.
 
-[Pogledaj Studije Slučaja Instalacije Klijenata](https://www.instagram.com/p/DJ0VWautwqA/?img_index=2)
+[Müştəri Quraşdırma Nümunələrinə baxın](https://www.instagram.com/p/DJ0VWautwqA/?img_index=2)
 
-## Iskustva Klijenata
+## Müştəri Rəyləri
 
-- „Protuprovalni alarm je odličan, instalirao sam jedan set i radi sjajno.“ – Rabeah Arnous, CEO  
-- „Neverovatan sistem… Instalirao sam ga i moj klijent je bio vrlo zadovoljan. Ocena 5 zvezdica.“ – Bassey Tom, CEO  
-- „Mrežni sistem nadzora alarma je tako dobar, jednostavan za korišćenje, jednostavan za instalaciju i superioran u prenosu u realnom vremenu. Radujemo se narednoj narudžbini.“ – Ben Takan, Koordinator Sigurnosti
+- “Müdaxilə siqnalizasiyası əladır, bir dəst quraşdırdım və çox yaxşı işləyir.” – Rabeah Arnous, CEO  
+- “Möhtəşəm sistem… Quraşdırdım və müştərim çox razı qaldı. 5 ulduzlu qiymətləndirmə.” – Bassey Tom, CEO  
+- “Şəbəkə siqnalizasiya izləmə sistemi çox yaxşıdır, istifadəsi və quraşdırılması asandır və real vaxt ötürülməsi əladır. Növbəti sifarişimizi səbirsizliklə gözləyirik.” – Ben Takan, Təhlükəsizlik Koordinatoru
 
-## Počnite
+## Başlayın
 
-Bilo da ste integrator sigurnosnih sistema, distributer ili krajnji korisnik, Athenalarm pruža visokokvalitetne protuprovalne alarme i sisteme detekcije upada prilagođene vašim potrebama.
+Siz təhlükəsizlik inteqratoru, distribyutor və ya son istifadəçi olmağınızdan asılı olmayaraq, Athenalarm ehtiyaclarınıza uyğun yüksək keyfiyyətli oğruluq əleyhinə siqnalizasiya məhsulları və müdaxilə siqnalizasiya sistemləri təqdim edir.
 
-[Posetite Athenalarm.com Sada – Dobijte Besplatnu Ponudu Danas!](https://athenalarm.com/)
+[İndi Athenalarm.com saytına daxil olun – Bu gün pulsuz təklif əldə edin!](https://athenalarm.com/)
 
-## Kontaktirajte Nas Direktno
+## Bizimlə birbaşa əlaqə saxlayın
 
-- Vebsajt: [https://athenalarm.com/](https://athenalarm.com/)  
-- Email: [info@athenalarm.com](mailto:info@athenalarm.com)  
-- Mobilni/WhatsApp/Viber: [+86 13662299642](https://api.whatsapp.com/send?phone=8613662299642)
+- Vebsayt: [https://athenalarm.com/](https://athenalarm.com/)  
+- E-poçt: [info@athenalarm.com](mailto:info@athenalarm.com)  
+- Mobil/WhatsApp/Viber: [+86 13662299642](https://api.whatsapp.com/send?phone=8613662299642)
 
-## Pratite Nas
+## Bizi izləyin
 
 - [YouTube](https://www.youtube.com/channel/UCP0_Wg3aylBn69eBIH2Fazg)  
 - [LinkedIn](https://www.linkedin.com/company/athenalarm/)  

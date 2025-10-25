@@ -1,31 +1,31 @@
 ---
-title: "Kontakt"
+title: "Əlaqə"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 ---
 
-Tu smo da vam pomognemo da pronađete najbolje proizvode za protivprovalnu zaštitu i sigurnosna rešenja za vaše poslovanje. Bilo da vam je potrebna tehnička podrška, informacije o distribuciji ili partnerstvu, naš iskusan tim je spreman da vam pomogne.
+Biz sizə biznesiniz üçün ən uyğun **oğru siqnalizasiya sistemləri** və **təhlükəsizlik həllərini** tapmaqda kömək etmək üçün buradayıq. İstər texniki dəstək, istər distribütorluq detalları, istərsə də tərəfdaşlıq məlumatları axtarırsınızsa, təcrübəli komandamız sizə kömək etməyə hazırdır.
 
-## 📍 Kontaktirajte Athenalarm
+## 📍 Athenalarm ilə Əlaqə
 
-**Adresa:**  
+**Ünvan:**  
 D910, Silver Star Scientific and Technical Building,  
-Guanlan, Longhua, Shenzhen, Guangdong, Kina  
+Guanlan, Longhua, Shenzhen, Guangdong, China  
 
-**Email:**  
+**E-poçt:**  
 [info@athenalarm.com](mailto:info@athenalarm.com)
 
-**Mobilni / WhatsApp / Viber:**  
+**Mobil / WhatsApp / Viber:**  
 [+86 136 6229 9642](https://api.whatsapp.com/send?phone=8613662299642)
 
-**Veb-sajt:**  
+**Vebsayt:**  
 [https://athenalarm.com](https://athenalarm.com)
 
 ---
 
-## 🌐 Povežite se sa nama
+## 🌐 Bizimlə Əlaqədə Olun
 
-Budite u toku sa našim najnovijim inovacijama u oblasti sigurnosti, studijama slučaja i lansiranjima proizvoda:
+Ən son **təhlükəsizlik yenilikləri**, **layihə nümunələri** və **məhsul buraxılışları** barədə məlumatlı qalın:
 
 - [LinkedIn](https://www.linkedin.com/company/athenalarm)
 - [Facebook](https://www.facebook.com/athenalarm)
@@ -36,4 +36,4 @@ Budite u toku sa našim najnovijim inovacijama u oblasti sigurnosti, studijama s
 
 ---
 
-> _Athenalarm — Profesionalni proizvođač protivprovalnih alarma i rešenja za mrežno praćenje alarma._
+> _Athenalarm — Peşəkar **Oğru Siqnalizasiya İstehsalçısı** və **Şəbəkə Əsaslı Siqnalizasiya İzləmə Həlləri** təqdim edən şirkət._
