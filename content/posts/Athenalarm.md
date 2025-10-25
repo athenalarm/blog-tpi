@@ -1,5 +1,5 @@
 ---
-title: "Athenalarm – អ្នកផលិតប្រព័ន្ធសោសុវត្ថិភាព និងដំណោះស្រាយត្រួតពិនិត្យប្រព័ន្ធប្រកាសបណ្តាញវិជ្ជាជីវៈ"
+title: "Athenalarm – Mugadziri Wepamusoro WeAlarm Yevaburi & Mhinduro dzeNetwork Alarm Monitoring"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 type: "posts"
@@ -7,67 +7,67 @@ type: "posts"
 
 ![Athenalarm Logo](https://athenalarm.com/wp-content/uploads/2025/05/athenalarm_home.png)
 
-## ទិដ្ឋភាពទូទៅ
+## Ongororo
 
-បង្កើតឡើងក្នុងឆ្នាំ 2006, Athenalarm គឺជាអ្នកផលិតប្រព័ន្ធសោសុវត្ថិភាពវិជ្ជាជីវៈ ដែលមានជំនាញពិសេសក្នុងប្រព័ន្ធប្រកាសការជ្រោមជ្រែង និងប្រព័ន្ធត្រួតពិនិត្យប្រកាសបណ្តាញ។ ផលិតផលរបស់យើងផ្តល់នូវដំណោះស្រាយសុវត្ថិភាពដែលអាចទុកចិត្តបាន និងមានប្រយោជន៍សម្រាប់អាជីវកម្ម ស្ថាប័ន និងសហគមន៍អចលនទ្រព្យ។ យើងផ្តោតលើប្រព័ន្ធសោសុវត្ថិភាពថ្នាក់ឧស្សាហកម្ម ដែលបង្កប់ប្រកាសការជ្រោមជ្រែងជាមួយ CCTV សម្រាប់ការត្រួតពិនិត្យពេលវេលាពិត បង្រួមការធ្វើតេស្តពីចម្ងាយ និងការគ្រប់គ្រងកណ្តាល។ ប្រព័ន្ធទាំងនេះសមស្របសម្រាប់វិស័យជាច្រើន រួមមានធនាគារ ការអប់រំ រាយវិនិយោគសំរាប់លក់ រោងពេទ្យ និងសហគមន៍អចលនទ្រព្យ និងត្រូវបានអតិថិជនទូទាំងពិភពលោកទុកចិត្ត។
+Yakavambwa muna 2006, Athenalarm ibhizimusi rehunyanzvi rinogadzira alarm yevaburi, richinyanya kugadzira masisitimu ekuongorora kupinda pamwe ne network alarm monitoring systems. Zvigadzirwa zvedu zvinopa mhinduro dzakavimbika, dzinoshanda dzekuchengetedza kumabhizimusi, masangano, nematunhu ekugara. Tinotarisa pamasisitimu eindustrial-grade intruder alarm anosanganisa intrusion alarms neCCTV kuti uone zvimwe nguva, kutsigira diagnostics kure uye manejimendi epakati. Aya masisitimu akakodzera kumadhipatimendi akasiyana-siyana kusanganisira mabhangi, dzidzo, zvitoro, hutano, uye matunhu ekugara, uye anotendwa nevatengi pasi rese.
 
-ជួរផលិតផលដ៏ទូលំទូលាយរបស់យើងគ្របដណ្តប់ចំពោះផ្ទាំងប្រកាស បន្ទះប្រកាសកម្មវិធីប្រកាស ឧបករណ៍សង្ស័យចលនា ឧបករណ៍ស្គាល់ប្រកាស គ្រឿងផ្សំព្រម និងប្រព័ន្ធផ្ទះឆ្លាតវៃ និងឧបករណ៍រំលឹកសំឡេង។ ផលិតផលសោសុវត្ថិភាពទាំងនេះផ្តល់ការការពារសុវត្ថិភាពគ្រប់គ្រងសម្រាប់ការប្រើប្រាស់នានា ចាប់ពីគ្រឿងសន្ទះធនាគារ ដល់ périmètres សហគមន៍ និងស្ថាប័នអាជីវកម្ម។
+Chirongwa chedu chezvigadzirwa chakafara chinosanganisira **Mapaneru eAlarm, Software yeAlarm, Masensa eKufamba, Vanoziva Alarm, Zvikamu zveAlarm, Masisitimu eKumba Akangwara,** uye **Zvyeizwi zveAA-100 Series**. Aya zvigadzirwa zvealarm yevaburi zvinopa chengetedzo yakazara yezvakasiyana-siyana, kubva kumabhanga, kusvika kumatunhu evanhu uye nzvimbo dzemabhizimusi.
 
-ក្រៅពីនេះ យើងផ្តល់សេវាកម្ម OEM និងការផ្គត់ផ្គង់ម៉ាកផ្ទាល់ខ្លួន អនុញ្ញាតឱ្យដៃគូបង្កើតប្រព័ន្ធប្រកាសការជ្រោមជ្រែងម៉ាកផ្ទាល់ខ្លួនជាមួយការផ្ទៀងផ្ទាត់ឧបករណ៍ ការណែនាំភាសាច្រើន និងការគាំទ្រការវេចខ្ចប់។ មិនថាអ្នកជាអ្នកចែកចាយ អ្នកបញ្ចូលប្រព័ន្ធ ឬអ្នកប្រើចុងក្រោយ ការផ្តល់សេវាកម្មរបស់ Athenalarm អនុញ្ញាតឱ្យដំណើរការប្រើប្រាស់ប្រព័ន្ធសុវត្ថិភាពវិជ្ជាជីវៈបានរលូនទូទាំងពិភពលោក។
+Pamusoro pezvo, tinopa OEM uye mabasa ekugadzira maitiro epachako, zvichibvumira shamwari kutanga **Mapaneru eAlarm** ane private-label pamwe nekugadzirisa hardware, mabhuku ane mitauro yakawanda, uye kutsigira packaging. Kunyangwe uri distributor, integrator, kana mushandisi wekupedzisira, zvigadzirwa zveAthenalarm zvinobvumira kuisirwa kwakasununguka kwemhinduro dzepamusoro dzekuchengetedza pasi rese.
 
 ![Athenalarm Factory](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-factory-03-540.jpg)
 
-## ផលិតផល
+## Zvigadzirwa
 
 ![Industrial AS-9000 series alarm panels installed in a commercial complex](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-burglar-alarms-1024.jpg)
 
-| Product Line | Key Benefits | Ideal For |
-|--------------|-------------|-----------|
-| ផ្ទាំងប្រកាស AS-9000 Series | ការទំនាក់ទំនងច្រើនប៉ុស្តិ៍ (PSTN, 4G, TCP/IP), តំបន់អាចពង្រីកបាន (16 ដោយខ្សែ, 30 ឥតខ្សែ, រហូតដល់ 1,656 តាមម៉ូឌុល), ប៊ូតុង LCD ជាមួយសំឡេងរំលឹក, ការរកឃើញការលួចកែប្រែ, ការចុះបញ្ជីព្រឹត្តិការណ៍ស្វ័យប្រវត្តិ | ធនាគារ, សួនឧស្សាហកម្ម, សាលារៀន, សួនពាណិជ្ជកម្ម, សហគមន៍អចលនទ្រព្យ |
-| ដំណោះស្រាយត្រួតពិនិត្យប្រព័ន្ធប្រកាសបណ្តាញ | ការគ្រប់គ្រងកណ្តាល, រួមបញ្ចូលប្រកាសការជ្រោមជ្រែងជាមួយ CCTV និងវេទិកាប្រព័ន្ធ cloud, ផ្ទាំងប្រកាសពេលវេលាពិត, ការថតវីដេអូ, ការផ្ញើរទៅជាច្រើនកម្រិត, ការធ្វើតេស្តពីចម្ងាយ | សាខាធនាគារ, ATM, សន្ទះសុវត្ថិភាព, សណ្ឋាគារ, ហាង, ស្ថាប័នអាជីវកម្ម, périmètres, សហគមន៍អចលនទ្រព្យ |
-| ឧបករណ៍រំលឹកសំឡេង AA-100 Series | ការជូនដំណឹងសំឡេងអាចប្ដូរបាន (MP3), បញ្ចាំងពីរ ទិញពីរ, របៀបអោយស្ងាត់ប្រកាស, ការរួមបញ្ចូលខ្សែ/ឥតខ្សែ, របៀបភ្លើងពីរផ្នែក | ពាណិជ្ជកម្ម, មន្ទីរពេទ្យ, ការិយាល័យ, សណ្ឋាគារ, ធនាគារ, ឃ្លាំង, តំបន់អចលនទ្រព្យ |
-| ឧបករណ៍ស្គាល់ប្រកាស | ឧបករណ៍សង្ស័យចលនា PIR (AT-805, AT-806), ឧបករណ៍ស្គាល់ផ្ទាំងផ្សែង (AS-603PC), ឧបករណ៍ស្គាល់ឧស្ម័ន (AS-705), ឧបករណ៍សង្កត់កាំរស្មីឌីជីថល (AS-971), ស្វ័យប្រវត្តិបើកទ្វារ (AA-56), ប៊ូតុងសង្គ្រោះ (AA-28B, AA-07) | ផ្ទះ, ការិយាល័យ, ធនាគារ, សណ្ឋាគារ, មន្ទីរពេទ្យ, ឃ្លាំង, ពាណិជ្ជកម្ម |
-| ប្រព័ន្ធផ្ទះឆ្លាតវៃ | ប្រព័ន្ធប្រកាស GSM/WIFI (AS-6000), រួមបញ្ចូលជាមួយឧបករណ៍ផ្សេងៗ និងផ្ទាំងសម្រាប់ការជូនដំណឹងស្វ័យប្រវត្តិ និងការត្រួតពិនិត្យពីចម្ងាយ | សហគមន៍អចលនទ្រព្យ, ការិយាល័យ, អាជីវកម្មតូចៗ |
+| Mutsetse Wechigadzirwa | Zvakanakira | Zvakakodzera Kuti |
+|--------------------|------------|-----------------|
+| Mapaneru eAlarm eAS-9000 Series | Kutaurirana kwemachannel akawanda (PSTN, 4G, TCP/IP), nzvimbo dzinowedzerwa (16 wired, 30 wireless, kusvika 1,656 kuburikidza nemamodule), LCD keypad ine voice prompts, kuongorora tamper, automatic event logging | Mabhangi, maindasitiri park, zvikoro, zvivakwa zvekutengesera, matunhu ekugara |
+| Mhinduro dzeNetwork Alarm Monitoring | Centralized management, inosanganisa intrusion alarms neCCTV & cloud platforms, alarm pop-ups panguva chaiyo, kurekodha vhidhiyo, forwarding pamatanho akawanda, diagnostics kure | Mabazi emabhangi, ATMs, masafe, mahotera, zvitoro, mabhizimusi, perimeters, matunhu ekugara |
+| Zvyeizwi zveAA-100 Series | Alarm dzine izwi dzinogadziriswa (MP3), bidirectional playback, mute alarm mode, wired/wireless integration, dual lighting modes | Nzvimbo dzekutengesa, zvipatara, mahofisi, mahotera, mabhangi, warehouse, nzvimbo dzekugara |
+| Vanoziva Alarm | PIR motion sensors (AT-805, AT-806), photoelectric smoke detector (AS-603PC), gas detector (AS-705), digital vibration detector (AS-971), door contact (AA-56), panic buttons (AA-28B, AA-07) | Dzimba, mahofisi, mabhangi, mahotera, zvipatara, warehouses, nzvimbo dzekutengesa |
+| Masisitimu eKumba Akangwara | GSM/WIFI alarm system (AS-6000), inosanganisa nezvimwe sensors uye panels kuti ipe zviziviso otomatiki uye monitoring kure | Matunhu ekugara, mahofisi, mabhizimusi madiki |
 
-[មើលវីដេអូ 1](https://www.youtube.com/watch?v=fxNFCblKrTA)  
-[មើលវីដេអូ 2](https://www.youtube.com/watch?v=FouMQpGDZNk)
+[Tarisa Vhidhiyo 1](https://www.youtube.com/watch?v=fxNFCblKrTA)  
+[Tarisa Vhidhiyo 2](https://www.youtube.com/watch?v=FouMQpGDZNk)
 
-## សេវាកម្ម OEM និងម៉ាកផ្ទាល់ខ្លួន
+## OEM & Mabasa Ekugadzira Zvemaitiro
 
-យើងផ្តល់ដំណោះស្រាយម៉ាកផ្ទាល់ខ្លួន និងផ្ទាល់ខ្លួនសម្រាប់អ្នកចែកចាយ និងអ្នកបញ្ចូលប្រព័ន្ធ៖ ការផ្ទៀងផ្ទាត់ឧបករណ៍, សៀវភៅណែនាំភាសាច្រើន, ការវេចខ្ចប់ និងការគាំទ្រម៉ាក។ អនុញ្ញាតឱ្យដៃគូបង្កើតផលិតផលសោសុវត្ថិភាពម៉ាកផ្ទាល់ខ្លួនបានយ៉ាងលឿន និងវិជ្ជាជីវៈ។
+Tinopa mhinduro dze private-label uye dzemaitiro kune distributors neintegrators: kugadzirisa hardware, mabhuku ane mitauro yakawanda, packaging, uye kutsigira branding. Zvinobvumira shamwari kutanga zvigadzirwa zvealarm zvine brand nekukurumidza uye nehunyanzvi.
 
-សមស្របសម្រាប់៖ អ្នកចែកចាយ និងអ្នកបញ្ចូលប្រព័ន្ធដែលចេញផ្សាយផលិតផលសុវត្ថិភាពម៉ាកផ្ទាល់ខ្លួន
+Zvakakodzera Kuti: Distributors uye integrators vanotanga zvigadzirwa zvekuchengetedza zvine brand
 
-[មើលឧទាហរណ៍ OEM](https://www.instagram.com/p/CTj0hpEjxJ0/)
+[Tarisa Muenzaniso weOEM](https://www.instagram.com/p/CTj0hpEjxJ0/)
 
-## ហេតុអ្វីបានជា Athenalarm ឈរជាចម្បង
+## Nei Athenalarm Ichisiyana
 
-- ជំនាញដែលបានសាកល្បង៖ ចាប់តាំងពីឆ្នាំ 2006, ផ្តល់ដំណោះស្រាយប្រកាសការជ្រោមជ្រែង និងសោសុវត្ថិភាពដែលអតិថិជនទូទាំងពិភពលោកទុកចិត្ត។  
-- ការប្រើប្រាស់ច្រើន៖ សមស្របសម្រាប់ធនាគារ, សណ្ឋាគារ, ហាង, សហគមន៍, ការិយាល័យ, និងផ្សេងទៀត—បង្កប់ប្រកាស, CCTV និងបច្ចេកវិទ្យា cloud សម្រាប់ការគ្រប់គ្រងកណ្តាល។  
-- វិចារណសំរាប់ថ្លៃ៖ ប្រព័ន្ធដែលติดตั้งងាយ ជាមួយការទំនាក់ទំនងច្រើនប៉ុស្តិ៍ (PSTN, 4G, TCP/IP) និងមុខងារអាចពង្រីកបាន ក្នុងតម្លៃប្រកួតប្រជែង។  
-- សេចក្ដីពេញចិត្តអតិថិជន៖ ត្រូវបានអតិថិជនទូទាំងពិភពលោកទុកចិត្តសម្រាប់ផលិតផល និងប្រព័ន្ធសុវត្ថិភាពដែលអាចទុកចិត្តបាន។
+- Hunhu Hwakaratidzwa: Kubvira 2006, kupa scalable intrusion alarm uye burglar alarm solutions dzinotendwa nevatengi pasi rese.  
+- Kushandiswa Kwakasiyana: Kwakakodzera kumabhangi, mahotera, zvitoro, nharaunda, mahofisi, uye zvimwe—kusanganisa alarms, CCTV, uye cloud technology yekutonga pakati.  
+- Innovation Inodhura Zvakanaka: Masisitimu ari nyore kuisa ane multi-channel communication (PSTN, 4G, TCP/IP) uye zvimwe zvinowedzerwa pamitengo inokwanisika.  
+- Kugutsikana kweVatengi: Zvinotendwa nevatengi pasi rese nezvigadzirwa uye masisitimu akavimbika ekuchengetedza.
 
-[មើលករណីដំណើរការតំឡើងអតិថិជន](https://www.instagram.com/p/DJ0VWautwqA/?img_index=2)
+[Tarisa Nyaya dzeVatengi paKuisa](https://www.instagram.com/p/DJ0VWautwqA/?img_index=2)
 
-## ពាក្យសម្តីអតិថិជន
+## Zvapupu zveVatengi
 
-- "ប្រព័ន្ធប្រកាសការជ្រោមជ្រែងល្អ, ខ្ញុំបានដំឡើងមួយសំណុំ ហើយវាដំណើរការល្អណាស់។" – Rabeah Arnous, CEO  
-- "ប្រព័ន្ធអស្ចារ្យ…បានដំឡើងរួច ហើយអតិថិជនរបស់ខ្ញុំពេញចិត្តខ្លាំង។ ដាក់ពិន្ទុ 5 ផ្កាយ។" – Bassey Tom, CEO  
-- "ប្រព័ន្ធត្រួតពិនិត្យប្រកាសបណ្តាញល្អណាស់, ងាយស្រួលប្រើ, ងាយស្រួលដំឡើង និងលើសការផ្ទេរពេលវេលាពិត។ យើងរង់ចាំការបញ្ជាទិញក្រោយ។" – Ben Takan, អ្នកប្រតិបត្តិការសុវត្ថិភាព
+- “Iyo intrusion alarm yakanaka, ndakaisa imwe seti uye iri kushanda zvakanaka.” – Rabeah Arnous, CEO  
+- “Sisitimu inoshamisa…Ndakaisa uye mutengi wangu akagutsikana zvikuru. 5-star rating.” – Bassey Tom, CEO  
+- “Network alarm monitoring system yakanaka kwazvo, iri nyore kushandisa, iri nyore kuisa uye pamusoro pekutumira panguva chaiyo. Tinotarisira odha yedu inotevera.” – Ben Takan, Security Coordinator
 
-## ចាប់ផ្តើម
+## Tanga Zvino
 
-មិនថាអ្នកជាអ្នកបញ្ចូលប្រព័ន្ធសុវត្ថិភាព, អ្នកចែកចាយ, ឬអ្នកប្រើចុងក្រោយ, Athenalarm ផ្តល់ផលិតផលសោសុវត្ថិភាព និងប្រព័ន្ធប្រកាសការជ្រោមជ្រែងដែលមានគុណភាពខ្ពស់ តាមតម្រូវការរបស់អ្នក។
+Kunyangwe uri security integrator, distributor, kana mushandisi wekupedzisira, Athenalarm inopa zvigadzirwa zvealarm yevaburi zvemhando yepamusoro uye masisitimu ekuongorora kupinda akagadzirirwa zvaunoda.
 
-[ចូលទៅកាន់ Athenalarm.com ឥឡូវនេះ – ទទួលបានកម្រៃសមរម្យដោយឥតគិតថ្លៃថ្ងៃនេះ!](https://athenalarm.com/)
+[Shanyira Athenalarm.com Zvino – Tora Quotation Yemahara Nhasi!](https://athenalarm.com/)
 
-## ទំនាក់ទំនងយើងដោយផ្ទាល់
+## Taura nesu Zvakananga
 
-- គេហទំព័រ: [https://athenalarm.com/](https://athenalarm.com/)  
-- អ៊ីមែល: [info@athenalarm.com](mailto:info@athenalarm.com)  
-- ទូរស័ព្ទ/WhatsApp/Viber: [+86 13662299642](https://api.whatsapp.com/send?phone=8613662299642)
+- Webhusaiti: [https://athenalarm.com/](https://athenalarm.com/)  
+- Imeyili: [info@athenalarm.com](mailto:info@athenalarm.com)  
+- Nharembozha/WhatsApp/Viber: [+86 13662299642](https://api.whatsapp.com/send?phone=8613662299642)
 
-## តាមដានយើង
+## Tevera isu
 
 - [YouTube](https://www.youtube.com/channel/UCP0_Wg3aylBn69eBIH2Fazg)  
 - [LinkedIn](https://www.linkedin.com/company/athenalarm/)  

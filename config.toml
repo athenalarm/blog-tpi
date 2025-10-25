@@ -1,7 +1,7 @@
 # Website Basic Information
-baseURL = "https://blogkm.athenalarm.com/"    # Placeholder URL, change to Cloudflare Pages URL after deployment
-title = "ប្លុក Athenalarm"
-languageCode = "km"
+baseURL = "https://blogsn.athenalarm.com/"    # Placeholder URL, change to Cloudflare Pages URL after deployment
+title = "Bhurogu reAthenalarm"
+languageCode = "sn"
 theme = "ananke"
 
 # Author Information (optional)
@@ -13,19 +13,19 @@ theme = "ananke"
 [menu]
   [[menu.main]]
     identifier = "home"
-    name = "ទំព័រដើម"
+    name = "Musha"
     url = "/"
     weight = 1
 
   [[menu.main]]
     identifier = "posts"
-    name = "អត្ថបទ"
+    name = "Zvinyorwa"
     url = "/posts/"
     weight = 2
 
   [[menu.main]]
     identifier = "contact"
-    name = "ទំនាក់ទំនង"
+    name = "Taura nesu"
     url = "/contact/"
     weight = 3
 

@@ -1,31 +1,31 @@
 ---
-title: "ទំនាក់ទំនង"
+title: "Taura"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 ---
 
-យើងនៅទីនេះដើម្បីជួយអ្នករកឃើញផលិតផលប្រព័ន្ធសំឡេងព្រិលសោ និងដំណោះស្រាយសុវត្ថិភាពល្អបំផុតសម្រាប់អាជីវកម្មរបស់អ្នក។ មិនថាអ្នកត្រូវការជំនួយបច្ចេកទេស ព័ត៌មានចែកចាយ ឬព័ត៌មានដៃគូ ក្រុមការងារដែលមានបទពិសោធន៍របស់យើងតែងតែមានស្រាប់ដើម្បីជួយអ្នក។
+Tiri pano kukubatsira kuwana zvigadzirwa zvakanakisisa zvekuchengetedza uye mhinduro dzekuchengetedza bhizinesi rako. Kunyangwe uchida rubatsiro rwehunyanzvi, ruzivo rwekugovera, kana ruzivo rwekuvimbika kwekudyidzana, timu yedu ine ruzivo yakagadzirira kukubatsira.
 
-## 📍 ទំនាក់ទំនង Athenalarm
+## 📍 Taura neAthenalarm
 
-**អាសយដ្ឋាន៖**  
+**Kero:**  
 D910, Silver Star Scientific and Technical Building,  
 Guanlan, Longhua, Shenzhen, Guangdong, China  
 
-**អ៊ីមែល៖**  
+**Imeyili:**  
 [info@athenalarm.com](mailto:info@athenalarm.com)
 
-**ទូរស័ព្ទ / WhatsApp / Viber៖**  
+**Nharembozha / WhatsApp / Viber:**  
 [+86 136 6229 9642](https://api.whatsapp.com/send?phone=8613662299642)
 
-**វេបសាយ៖**  
+**Webhusaiti:**  
 [https://athenalarm.com](https://athenalarm.com)
 
 ---
 
-## 🌐 ភ្ជាប់ជាមួយយើង
+## 🌐 Bata nesu
 
-រក្សាទុកព័ត៌មានថ្មីៗពីស្ថានភាពច្នៃប្រឌិតសុវត្ថិភាព ករណីសិក្សា និងការចេញផ្សាយផលិតផល៖
+Ramba uchiziva nezve zvitsva zvedu zvekuchengetedza, ongororo dzemhosva, uye kuburitswa kwezvigadzirwa:
 
 - [LinkedIn](https://www.linkedin.com/company/athenalarm)
 - [Facebook](https://www.facebook.com/athenalarm)
@@ -36,4 +36,4 @@ Guanlan, Longhua, Shenzhen, Guangdong, China
 
 ---
 
-> _Athenalarm — ក្រុមហ៊ុនផលិតប្រព័ន្ធសំឡេងព្រិលសោវិជ្ជាជីវៈ និងដំណោះស្រាយការត្រួតពិនិត្យប្រព័ន្ធសំឡេងព្រិលតាមបណ្តាញ។_
+> _Athenalarm — Mugadziri Nyanzvi weZviridzwa zveKuchengetedza & Network Alarm Monitoring Solutions._
