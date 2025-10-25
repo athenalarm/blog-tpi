@@ -1,31 +1,31 @@
 ---
-title: "Əlaqə"
+title: "Kontakt"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 ---
 
-Biz sizə biznesiniz üçün ən uyğun **oğru siqnalizasiya sistemləri** və **təhlükəsizlik həllərini** tapmaqda kömək etmək üçün buradayıq. İstər texniki dəstək, istər distribütorluq detalları, istərsə də tərəfdaşlıq məlumatları axtarırsınızsa, təcrübəli komandamız sizə kömək etməyə hazırdır.
+Jsme tu, abychom vám pomohli najít ty nejlepší produkty proti vloupání a bezpečnostní řešení pro vaši firmu. Ať už potřebujete technickou podporu, informace o distribuci nebo podrobnosti o partnerství, náš zkušený tým je připraven vám pomoci.
 
-## 📍 Athenalarm ilə Əlaqə
+## 📍 Kontaktujte Athenalarm
 
-**Ünvan:**  
+**Adresa:**  
 D910, Silver Star Scientific and Technical Building,  
 Guanlan, Longhua, Shenzhen, Guangdong, China  
 
-**E-poçt:**  
+**E-mail:**  
 [info@athenalarm.com](mailto:info@athenalarm.com)
 
 **Mobil / WhatsApp / Viber:**  
 [+86 136 6229 9642](https://api.whatsapp.com/send?phone=8613662299642)
 
-**Vebsayt:**  
+**Webové stránky:**  
 [https://athenalarm.com](https://athenalarm.com)
 
 ---
 
-## 🌐 Bizimlə Əlaqədə Olun
+## 🌐 Spojte se s námi
 
-Ən son **təhlükəsizlik yenilikləri**, **layihə nümunələri** və **məhsul buraxılışları** barədə məlumatlı qalın:
+Zůstaňte v obraze o našich nejnovějších bezpečnostních inovacích, případových studiích a uvedeních produktů na trh:
 
 - [LinkedIn](https://www.linkedin.com/company/athenalarm)
 - [Facebook](https://www.facebook.com/athenalarm)
@@ -36,4 +36,4 @@ Guanlan, Longhua, Shenzhen, Guangdong, China
 
 ---
 
-> _Athenalarm — Peşəkar **Oğru Siqnalizasiya İstehsalçısı** və **Şəbəkə Əsaslı Siqnalizasiya İzləmə Həlləri** təqdim edən şirkət._
+> _Athenalarm — Profesionální výrobce poplachových systémů proti vloupání a řešení pro síťový dohled nad poplachovými systémy._
