@@ -1,31 +1,31 @@
 ---
-title: "Kontakt"
+title: "Contacte"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 ---
 
-Jsme tu, abychom vám pomohli najít ty nejlepší produkty proti vloupání a bezpečnostní řešení pro vaši firmu. Ať už potřebujete technickou podporu, informace o distribuci nebo podrobnosti o partnerství, náš zkušený tým je připraven vám pomoci.
+Som aquí per ajudar-te a trobar els millors productes d’alarma contra robatoris i solucions de seguretat per al teu negoci. Tant si necessites assistència tècnica, informació de distribució o detalls sobre col·laboracions, el nostre equip experimentat està preparat per ajudar-te.
 
-## 📍 Kontaktujte Athenalarm
+## 📍 Contacta amb Athenalarm
 
-**Adresa:**  
+**Adreça:**  
 D910, Silver Star Scientific and Technical Building,  
 Guanlan, Longhua, Shenzhen, Guangdong, China  
 
-**E-mail:**  
+**Correu electrònic:**  
 [info@athenalarm.com](mailto:info@athenalarm.com)
 
-**Mobil / WhatsApp / Viber:**  
+**Mòbil / WhatsApp / Viber:**  
 [+86 136 6229 9642](https://api.whatsapp.com/send?phone=8613662299642)
 
-**Webové stránky:**  
+**Lloc web:**  
 [https://athenalarm.com](https://athenalarm.com)
 
 ---
 
-## 🌐 Spojte se s námi
+## 🌐 Connecta amb nosaltres
 
-Zůstaňte v obraze o našich nejnovějších bezpečnostních inovacích, případových studiích a uvedeních produktů na trh:
+Mantén-te al dia amb les nostres últimes innovacions en seguretat, estudis de casos i llançaments de productes:
 
 - [LinkedIn](https://www.linkedin.com/company/athenalarm)
 - [Facebook](https://www.facebook.com/athenalarm)
@@ -36,4 +36,4 @@ Zůstaňte v obraze o našich nejnovějších bezpečnostních inovacích, pří
 
 ---
 
-> _Athenalarm — Profesionální výrobce poplachových systémů proti vloupání a řešení pro síťový dohled nad poplachovými systémy._
+> _Athenalarm — Fabricant professional d’alarmes contra robatoris i solucions de monitoratge d’alarma en xarxa._
