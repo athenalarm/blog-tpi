@@ -1,5 +1,5 @@
 ---
-title: "Athenalarm – Professzionális Betörésjelző Gyártó & Hálózati Riasztásfigyelő Megoldások"
+title: "Athenalarm – Profesionalni Proizvođač Protuprovalnih Alarmnih Sistema & Rešenja za Mrežno Praćenje Alarma"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 type: "posts"
@@ -7,67 +7,67 @@ type: "posts"
 
 ![Athenalarm Logo](https://athenalarm.com/wp-content/uploads/2025/05/athenalarm_home.png)
 
-## Áttekintés
+## Pregled
 
-Az Athenalarm 2006-ban alakult, professzionális betörésjelző gyártóként, amely az illetéktelen behatolás jelző- és hálózati riasztásfigyelő rendszerekre specializálódott. Termékeink megbízható és gyakorlati biztonsági megoldásokat kínálnak vállalkozások, intézmények és lakóközösségek számára. Az ipari szintű betörésjelző rendszerekre fókuszálunk, amelyek a behatolásjelzőket CCTV-vel kombinálják valós idejű ellenőrzéshez, támogatják a távoli diagnosztikát és a központosított menedzsmentet. Ezek a rendszerek különböző ágazatok számára alkalmasak, beleértve a banki, oktatási, kereskedelmi, egészségügyi és lakóközösségi szektort, és világszerte megbízhatóak az ügyfelek körében.
+Osnovan 2006. godine, Athenalarm je profesionalni proizvođač protuprovalnih alarma specijalizovan za sisteme za detekciju upada i mrežnog nadzora alarma. Naši proizvodi pružaju pouzdana i praktična sigurnosna rešenja za preduzeća, institucije i stambene zajednice. Fokusiramo se na industrijske sisteme protuprovalnih alarma koji kombinuju detektore upada sa CCTV-om za verifikaciju u realnom vremenu, podržavajući daljinsku dijagnostiku i centralizovano upravljanje. Ovi sistemi su pogodni za razne sektore, uključujući bankarstvo, obrazovanje, maloprodaju, zdravstvenu zaštitu i stambene zajednice, i pouzdano ih koriste klijenti širom sveta.
 
-Kiterjedt termékkínálatunk lefedi a riasztótáblákat, riasztószoftvereket, mozgásérzékelőket, riasztóérzékelőket, riasztókomponenseket, okos otthoni rendszereket és hangemlékeztető eszközöket. Ezek a betörésjelző termékek átfogó biztonsági lefedettséget nyújtanak különféle alkalmazásokhoz, a banki széfektől a közösségi területekig és vállalati létesítményekig.
+Naš širok asortiman proizvoda obuhvata alarmne panele, alarmni softver, senzore pokreta, detektore alarma, komponente alarma, pametne kućne sisteme i uređaje za glasovne podsetnike. Ovi protuprovalni alarmi pružaju sveobuhvatnu sigurnosnu pokrivenost za razne primene, od bankovnih trezora do perimetara zajednica i poslovnih objekata.
 
-Ezenkívül OEM és egyedi márkázási szolgáltatásokat kínálunk, lehetővé téve partnereink számára a saját márkás betörésjelző rendszerek indítását hardver testreszabással, többnyelvű kézikönyvekkel és csomagolási támogatással. Legyen Ön forgalmazó, integrátor vagy végfelhasználó, az Athenalarm kínálata lehetővé teszi a professzionális biztonsági megoldások zökkenőmentes telepítését világszerte.
+Pored toga, nudimo OEM i usluge prilagođenog brendiranja, omogućavajući partnerima lansiranje sistema protuprovalnih alarma pod privatnom etiketom sa prilagođenim hardverom, višejezičnim uputstvima i podrškom za pakovanje. Bilo da ste distributer, integrator ili krajnji korisnik, Athenalarm-ova ponuda omogućava jednostavno implementiranje profesionalnih sigurnosnih rešenja širom sveta.
 
 ![Athenalarm Factory](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-factory-03-540.jpg)
 
-## Termékek
+## Proizvodi
 
-![Ipari AS-9000 sorozatú riasztótáblák telepítve egy kereskedelmi komplexumban](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-burglar-alarms-1024.jpg)
+![Industrial AS-9000 series alarm panels installed in a commercial complex](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-burglar-alarms-1024.jpg)
 
-| Termékvonal | Fő előnyök | Ideális felhasználás |
-|--------------|-------------|-------------------|
-| AS-9000 Sorozatú Riasztótáblák | Többcsatornás kommunikáció (PSTN, 4G, TCP/IP), bővíthető zónák (16 vezetékes, 30 vezeték nélküli, modulokkal akár 1,656), LCD billentyűzet hangutasításokkal, manipuláció érzékelés, automatikus eseménynaplózás | Bankok, ipari parkok, iskolák, kereskedelmi komplexumok, lakóközösségek |
-| Hálózati Riasztásfigyelő Megoldások | Központosított menedzsment, integrálja a behatolásjelzőket CCTV-vel & felhőplatformokkal, valós idejű riasztás felugró ablakok, videófelvétel, többszintű továbbítás, távoli diagnosztika | Bankfiókok, ATM-ek, széfek, hotelek, üzletek, vállalatok, peremterületek, lakóközösségek |
-| AA-100 Sorozatú Hangemlékeztetők | Testreszabható hangriasztások (MP3), kétirányú lejátszás, némítási üzemmód, vezetékes/vezeték nélküli integráció, kétféle világítási mód | Kiskereskedelmi terek, kórházak, irodák, hotelek, bankok, raktárak, lakóhelyek |
-| Riasztóérzékelők | PIR mozgásérzékelők (AT-805, AT-806), fotoelektromos füstérzékelő (AS-603PC), gázérzékelő (AS-705), digitális rezgésérzékelő (AS-971), ajtóérintkező (AA-56), pánikgombok (AA-28B, AA-07) | Otthonok, irodák, bankok, hotelek, kórházak, raktárak, kiskereskedelmi terek |
-| Okos Otthoni Rendszerek | GSM/WIFI riasztórendszer (AS-6000), integrálva más érzékelőkkel és riasztótáblákkal az automatikus riasztásokhoz és távoli felügyelethez | Lakóközösségek, irodák, kisvállalkozások |
+| Linija Proizvoda | Ključne Prednosti | Idealno Za |
+|-----------------|-----------------|------------|
+| AS-9000 Serija Alarmnih Panela | Višekanalska komunikacija (PSTN, 4G, TCP/IP), proširive zone (16 žičanih, 30 bežičnih, do 1.656 preko modula), LCD tastatura sa glasovnim uputstvima, detekcija sabotaže, automatsko beleženje događaja | Banke, industrijski parkovi, škole, poslovni kompleksi, stambene zajednice |
+| Rešenja za Mrežno Praćenje Alarma | Centralizovano upravljanje, integriše protuprovalne alarme sa CCTV-om i cloud platformama, pop-up upozorenja u realnom vremenu, snimanje video zapisa, višeslojno prosleđivanje, daljinska dijagnostika | Filijale banaka, bankomati, trezori, hoteli, prodavnice, preduzeća, perimetri, stambene zajednice |
+| AA-100 Serija Glasovnih Podsetnika | Prilagodljiva glasovna upozorenja (MP3), dvosmerno reprodukovanje, režim isključenja alarma, integracija žičana/bežična, dva režima osvetljenja | Maloprodajni prostori, bolnice, kancelarije, hoteli, banke, skladišta, stambeni objekti |
+| Detektori Alarma | PIR senzori pokreta (AT-805, AT-806), fotoelektrični detektor dima (AS-603PC), detektor gasa (AS-705), digitalni detektor vibracija (AS-971), kontakt vrata (AA-56), tasteri panike (AA-28B, AA-07) | Kuće, kancelarije, banke, hoteli, bolnice, skladišta, maloprodajni prostori |
+| Pametni Kućni Sistemi | GSM/WIFI alarmni sistem (AS-6000), integriše se sa drugim senzorima i panelima za automatska upozorenja i daljinski nadzor | Stambene zajednice, kancelarije, mala preduzeća |
 
-[Nézze meg a Videót 1](https://www.youtube.com/watch?v=fxNFCblKrTA)  
-[Nézze meg a Videót 2](https://www.youtube.com/watch?v=FouMQpGDZNk)
+[Pogledaj Video 1](https://www.youtube.com/watch?v=fxNFCblKrTA)  
+[Pogledaj Video 2](https://www.youtube.com/watch?v=FouMQpGDZNk)
 
-## OEM & Egyedi Márkázási Szolgáltatások
+## OEM & Usluge Prilagođenog Brendiranja
 
-Privát címkés és egyedi megoldásokat kínálunk forgalmazók és integrátorok számára: hardver testreszabás, többnyelvű kézikönyvek, csomagolás és márkázási támogatás. Lehetővé teszi a partnerek számára, hogy gyorsan és professzionálisan indítsanak márkázott betörésjelző termékeket.
+Nudimo rešenja pod privatnom etiketom i prilagođena rešenja za distributere i integratore: prilagođavanje hardvera, višejezična uputstva, pakovanje i podrška za brendiranje. Omogućava partnerima brzo i profesionalno lansiranje proizvoda protuprovalnih alarma sa brendom.
 
-Ideális felhasználás: Forgalmazók és integrátorok, akik márkázott biztonsági termékeket indítanak
+Idealno Za: Distributere i integratore koji lansiraju proizvode sigurnosnog sistema sa brendom
 
-[Nézze meg az OEM Példát](https://www.instagram.com/p/CTj0hpEjxJ0/)
+[Pogledaj OEM Primer](https://www.instagram.com/p/CTj0hpEjxJ0/)
 
-## Miért Az Athenalarm Kiemelkedő
+## Zašto Athenalarm Izdvaja
 
-- Bizonyított Szakértelem: 2006 óta skálázható behatolásjelző és betörésjelző megoldásokat kínálunk, amelyeket világszerte ügyfelek bíznak.  
-- Sokoldalú Alkalmazások: Ideális bankok, hotelek, üzletek, közösségek, irodák és más területek számára—riasztások, CCTV és felhőtechnológia kombinációja központosított irányítással.  
-- Költséghatékony Innováció: Könnyen telepíthető rendszerek többcsatornás kommunikációval (PSTN, 4G, TCP/IP) és bővíthető funkciókkal versenyképes áron.  
-- Ügyfél elégedettség: Világszerte megbízható biztonsági termékek és rendszerek révén bíznak bennünk az ügyfelek.
+- Dokazana Stručnost: Od 2006. godine pruža skalabilna rešenja za detekciju upada i protuprovalne alarme koja klijenti širom sveta koriste sa poverenjem.  
+- Svestrane Primene: Idealno za banke, hotele, prodavnice, zajednice, kancelarije i više—kombinuje alarme, CCTV i cloud tehnologiju za centralizovanu kontrolu.  
+- Inovacija Pristupačna Cena: Lako instalabilni sistemi sa višekanalskom komunikacijom (PSTN, 4G, TCP/IP) i proširivim funkcijama po konkurentnim cenama.  
+- Zadovoljstvo Klijenata: Klijenti širom sveta veruju u pouzdane sigurnosne proizvode i sisteme.
 
-[Nézze meg az Ügyfél Telepítési Esettanulmányokat](https://www.instagram.com/p/DJ0VWautwqA/?img_index=2)
+[Pogledaj Studije Slučaja Instalacije Klijenata](https://www.instagram.com/p/DJ0VWautwqA/?img_index=2)
 
-## Ügyfélvélemények
+## Iskustva Klijenata
 
-- „A behatolásjelző rendben van, telepítettem egy készletet és nagyszerűen működik.” – Rabeah Arnous, CEO  
-- „Csodálatos rendszer… Telepítettem és az ügyfelem nagyon elégedett volt. 5 csillagos értékelés.” – Bassey Tom, CEO  
-- „A hálózati riasztásfigyelő rendszer nagyon jó, könnyen használható, könnyen telepíthető és valós idejű adatátvitel felett. Alig várjuk a következő rendelésünket.” – Ben Takan, Biztonsági Koordinátor
+- „Protuprovalni alarm je odličan, instalirao sam jedan set i radi sjajno.“ – Rabeah Arnous, CEO  
+- „Neverovatan sistem… Instalirao sam ga i moj klijent je bio vrlo zadovoljan. Ocena 5 zvezdica.“ – Bassey Tom, CEO  
+- „Mrežni sistem nadzora alarma je tako dobar, jednostavan za korišćenje, jednostavan za instalaciju i superioran u prenosu u realnom vremenu. Radujemo se narednoj narudžbini.“ – Ben Takan, Koordinator Sigurnosti
 
-## Kezdjen El
+## Počnite
 
-Legyen Ön biztonsági integrátor, forgalmazó vagy végfelhasználó, az Athenalarm magas minőségű betörésjelző termékeket és behatolásjelző rendszereket biztosít az Ön igényeihez igazítva.
+Bilo da ste integrator sigurnosnih sistema, distributer ili krajnji korisnik, Athenalarm pruža visokokvalitetne protuprovalne alarme i sisteme detekcije upada prilagođene vašim potrebama.
 
-[Látogasson el az Athenalarm.com-ra Most – Kérjen Ingyenes Árajánlatot Ma!](https://athenalarm.com/)
+[Posetite Athenalarm.com Sada – Dobijte Besplatnu Ponudu Danas!](https://athenalarm.com/)
 
-## Kapcsolatfelvétel Közvetlenül
+## Kontaktirajte Nas Direktno
 
-- Weboldal: [https://athenalarm.com/](https://athenalarm.com/)  
+- Vebsajt: [https://athenalarm.com/](https://athenalarm.com/)  
 - Email: [info@athenalarm.com](mailto:info@athenalarm.com)  
-- Mobil/WhatsApp/Viber: [+86 13662299642](https://api.whatsapp.com/send?phone=8613662299642)
+- Mobilni/WhatsApp/Viber: [+86 13662299642](https://api.whatsapp.com/send?phone=8613662299642)
 
-## Kövessen Minket
+## Pratite Nas
 
 - [YouTube](https://www.youtube.com/channel/UCP0_Wg3aylBn69eBIH2Fazg)  
 - [LinkedIn](https://www.linkedin.com/company/athenalarm/)  

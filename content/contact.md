@@ -1,31 +1,31 @@
 ---
-title: "Kapcsolat"
+title: "Kontakt"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 ---
 
-Segítünk Önnek megtalálni a legjobb betörésjelző termékeket és biztonsági megoldásokat vállalkozása számára. Legyen szó műszaki támogatásról, forgalmazási információkról vagy partneri lehetőségekről, tapasztalt csapatunk készen áll, hogy segítsen.
+Tu smo da vam pomognemo da pronađete najbolje proizvode za protivprovalnu zaštitu i sigurnosna rešenja za vaše poslovanje. Bilo da vam je potrebna tehnička podrška, informacije o distribuciji ili partnerstvu, naš iskusan tim je spreman da vam pomogne.
 
-## 📍 Kapcsolat Athenalarm
+## 📍 Kontaktirajte Athenalarm
 
-**Cím:**  
+**Adresa:**  
 D910, Silver Star Scientific and Technical Building,  
-Guanlan, Longhua, Shenzhen, Guangdong, China  
+Guanlan, Longhua, Shenzhen, Guangdong, Kina  
 
-**E-mail:**  
+**Email:**  
 [info@athenalarm.com](mailto:info@athenalarm.com)
 
-**Mobil / WhatsApp / Viber:**  
+**Mobilni / WhatsApp / Viber:**  
 [+86 136 6229 9642](https://api.whatsapp.com/send?phone=8613662299642)
 
-**Weboldal:**  
+**Veb-sajt:**  
 [https://athenalarm.com](https://athenalarm.com)
 
 ---
 
-## 🌐 Kapcsolódjon hozzánk
+## 🌐 Povežite se sa nama
 
-Maradjon naprakész a legújabb biztonsági innovációinkról, esettanulmányainkról és termékújdonságainkról:
+Budite u toku sa našim najnovijim inovacijama u oblasti sigurnosti, studijama slučaja i lansiranjima proizvoda:
 
 - [LinkedIn](https://www.linkedin.com/company/athenalarm)
 - [Facebook](https://www.facebook.com/athenalarm)
@@ -36,4 +36,4 @@ Maradjon naprakész a legújabb biztonsági innovációinkról, esettanulmányai
 
 ---
 
-> _Athenalarm — Professzionális Betörésjelző Gyártó & Hálózati Riasztásfigyelés Megoldások._
+> _Athenalarm — Profesionalni proizvođač protivprovalnih alarma i rešenja za mrežno praćenje alarma._
