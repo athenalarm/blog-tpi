@@ -1,7 +1,7 @@
 # Website Basic Information
-baseURL = "https://blogsn.athenalarm.com/"    # Placeholder URL, change to Cloudflare Pages URL after deployment
-title = "Bhurogu reAthenalarm"
-languageCode = "sn"
+baseURL = "https://bloghu.athenalarm.com/"    # Placeholder URL, change to Cloudflare Pages URL after deployment
+title = "Athenalarm Blogja"
+languageCode = "hu"
 theme = "ananke"
 
 # Author Information (optional)
@@ -13,19 +13,19 @@ theme = "ananke"
 [menu]
   [[menu.main]]
     identifier = "home"
-    name = "Musha"
+    name = "Kezdőlap"
     url = "/"
     weight = 1
 
   [[menu.main]]
     identifier = "posts"
-    name = "Zvinyorwa"
+    name = "Bejegyzések"
     url = "/posts/"
     weight = 2
 
   [[menu.main]]
     identifier = "contact"
-    name = "Taura nesu"
+    name = "Kapcsolat"
     url = "/contact/"
     weight = 3
 
