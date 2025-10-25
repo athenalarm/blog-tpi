@@ -1,5 +1,5 @@
 ---
-title: "Athenalarm – Професионален производител на алармени системи против взлом и решения за мрежово наблюдение на аларми"
+title: "Athenalarm – Profesionalni Proizvođač Protuprovalnih Alarmnih Sustava & Rješenja za Mrežno Praćenje Alarma"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 type: "posts"
@@ -7,67 +7,67 @@ type: "posts"
 
 ![Athenalarm Logo](https://athenalarm.com/wp-content/uploads/2025/05/athenalarm_home.png)
 
-## Преглед
+## Pregled
 
-Основана през 2006 г., Athenalarm е професионален производител на алармени системи против взлом, специализиран в системи за аларми при проникване и решения за мрежово наблюдение на аларми. Нашите продукти предоставят надеждни и практични решения за сигурност за бизнеси, институции и жилищни комплекси. Ние се фокусираме върху индустриални системи за защита от проникване, които комбинират аларми с видеонаблюдение (CCTV) за потвърждение в реално време, като поддържат дистанционна диагностика и централизирано управление. Тези системи са подходящи за различни сектори, включително банкиране, образование, търговия на дребно, здравеопазване и жилищни общности, и са доверен избор на клиенти по целия свят.
+Osnovan 2006. godine, Athenalarm je profesionalni proizvođač protuprovalnih alarma specijaliziran za sustave alarma protiv provale i rješenja za mrežno praćenje alarma. Naši proizvodi pružaju pouzdana i praktična sigurnosna rješenja za poduzeća, institucije i stambene zajednice. Fokusiramo se na industrijske sustave alarma protiv provale koji kombiniraju alarme s CCTV-om za verifikaciju u stvarnom vremenu, podržavajući daljinsku dijagnostiku i centralizirano upravljanje. Ovi sustavi pogodni su za različite sektore uključujući bankarstvo, obrazovanje, maloprodaju, zdravstvenu zaštitu i stambene zajednice te uživaju povjerenje klijenata širom svijeta.
 
-Нашата широка гама от продукти обхваща алармени панели, софтуер за аларми, детектори за движение, алармени датчици, компоненти за аларми, системи за умен дом и устройства за гласови напомняния. Тези продукти за защита от взлом осигуряват цялостно покритие за сигурност в различни приложения – от банкови сейфове до периметри на общности и корпоративни обекти.
+Naš široki asortiman proizvoda obuhvaća alarmne panele, alarmni softver, senzore pokreta, detektore alarma, komponente alarma, pametne kućne sustave i uređaje za glasovne podsjetnike. Ovi proizvodi protuprovalnih alarma pružaju sveobuhvatnu sigurnosnu zaštitu za razne primjene, od bankovnih trezora do perimetara zajednica i poduzeća.
 
-Освен това предлагаме OEM и персонализирани решения за брандиране, които позволяват на партньорите да пускат свои собствени марки системи за защита от проникване с хардуерни персонализации, многоезични ръководства и поддръжка на опаковки. Независимо дали сте дистрибутор, интегратор или краен потребител, предложенията на Athenalarm позволяват безпроблемно внедряване на професионални решения за сигурност в световен мащаб.
+Osim toga, nudimo OEM i usluge prilagođenog brendiranja, omogućujući partnerima lansiranje privatnih sustava alarma s prilagodbom hardvera, višejezičnim uputama i podrškom za pakiranje. Bilo da ste distributer, integrator ili krajnji korisnik, Athenalarm nudi besprijekornu implementaciju profesionalnih sigurnosnih rješenja širom svijeta.
 
 ![Athenalarm Factory](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-factory-03-540.jpg)
 
-## Продукти
+## Proizvodi
 
-![Индустриални алармени панели AS-9000, инсталирани в търговски комплекс](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-burglar-alarms-1024.jpg)
+![Industrial AS-9000 series alarm panels installed in a commercial complex](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-burglar-alarms-1024.jpg)
 
-| Продуктова линия | Основни предимства | Подходящо за |
-|------------------|-------------------|--------------|
-| Алармени панели AS-9000 Series | Многоканална комуникация (PSTN, 4G, TCP/IP), разширяеми зони (16 жични, 30 безжични, до 1,656 чрез модули), LCD клавиатура с гласови указания, защита от саботаж, автоматично регистриране на събития | Банки, индустриални паркове, училища, търговски комплекси, жилищни общности |
-| Решения за мрежово наблюдение на аларми | Централизирано управление, интегрира аларми при проникване с CCTV и облачни платформи, изскачащи известия в реално време, запис на видео, многостепенно препращане, дистанционна диагностика | Банкови клонове, банкомати, сейфове, хотели, магазини, предприятия, периметри, жилищни общности |
-| Гласови напомняния AA-100 Series | Персонализирани гласови сигнали (MP3), двупосочно възпроизвеждане, беззвучен режим на аларма, жична/безжична интеграция, двоен режим на осветление | Търговски обекти, болници, офиси, хотели, банки, складове, жилищни обекти |
-| Алармени детектори | PIR датчици за движение (AT-805, AT-806), фотоелектрически димен детектор (AS-603PC), газов детектор (AS-705), цифров детектор за вибрации (AS-971), магнитен контакт за врата (AA-56), паник бутони (AA-28B, AA-07) | Домове, офиси, банки, хотели, болници, складове, търговски помещения |
-| Системи за умен дом | GSM/WIFI алармена система (AS-6000), интегрира се с други сензори и панели за автоматични сигнали и дистанционно наблюдение | Жилищни общности, офиси, малки бизнеси |
+| Linija Proizvoda | Ključne Prednosti | Idealno Za |
+|-----------------|-----------------|------------|
+| AS-9000 Series Alarmni Paneli | Višekanalna komunikacija (PSTN, 4G, TCP/IP), proširive zone (16 ožičenih, 30 bežičnih, do 1,656 putem modula), LCD tipkovnica s glasovnim uputama, detekcija sabotaže, automatsko zapisivanje događaja | Banke, industrijski parkovi, škole, trgovački kompleksi, stambene zajednice |
+| Rješenja za Mrežno Praćenje Alarma | Centralizirano upravljanje, integrira alarme protiv provale s CCTV-om i cloud platformama, upozorenja alarma u stvarnom vremenu, snimanje videozapisa, višerazinsko prosljeđivanje, daljinska dijagnostika | Podružnice banaka, bankomati, trezori, hoteli, trgovine, poduzeća, perimetri, stambene zajednice |
+| AA-100 Series Glasovni Podsjetnici | Prilagodljiva glasovna upozorenja (MP3), dvosmjerno reprodukcija, način utišanog alarma, integracija ožičena/bežična, dvostruki načini osvjetljenja | Maloprodajni prostori, bolnice, uredi, hoteli, banke, skladišta, stambeni objekti |
+| Detektori Alarma | PIR senzori pokreta (AT-805, AT-806), fotoelektrični detektor dima (AS-603PC), detektor plina (AS-705), digitalni detektor vibracija (AS-971), kontakt vrata (AA-56), tipke panike (AA-28B, AA-07) | Kuće, uredi, banke, hoteli, bolnice, skladišta, maloprodajni prostori |
+| Pametni Kućni Sustavi | GSM/WIFI alarmni sustav (AS-6000), integrira se s drugim senzorima i panelima za automatizirana upozorenja i daljinsko praćenje | Stambene zajednice, uredi, mala poduzeća |
 
-[Гледай Видео 1](https://www.youtube.com/watch?v=fxNFCblKrTA)  
-[Гледай Видео 2](https://www.youtube.com/watch?v=FouMQpGDZNk)
+[Pogledaj Video 1](https://www.youtube.com/watch?v=fxNFCblKrTA)  
+[Pogledaj Video 2](https://www.youtube.com/watch?v=FouMQpGDZNk)
 
-## OEM и персонализирани решения за брандиране
+## OEM & Prilagođene Usluge Brendiranja
 
-Ние предоставяме OEM и персонализирани решения за дистрибутори и интегратори: хардуерна персонализация, многоезични ръководства, опаковки и поддръжка на бранда. Това позволява на партньорите бързо и професионално да стартират брандирани продукти за защита от взлом.
+Nudimo privatne i prilagođene proizvode za distributere i integratore: prilagodbu hardvera, višejezične upute, pakiranje i podršku za brendiranje. Omogućuje partnerima brzo i profesionalno lansiranje brendiranih proizvoda protuprovalnih alarma.
 
-Подходящо за: Дистрибутори и интегратори, които пускат на пазара брандирани продукти за сигурност
+Idealno Za: Distributere i integratore koji lansiraju brendirane sigurnosne proizvode
 
-[Виж OEM пример](https://www.instagram.com/p/CTj0hpEjxJ0/)
+[Pogledaj OEM Primjer](https://www.instagram.com/p/CTj0hpEjxJ0/)
 
-## Защо Athenalarm се отличава
+## Zašto Athenalarm Izdvaja
 
-- Доказан опит: От 2006 г. доставяме мащабируеми решения за аларми при проникване и защита от взлом, на които се доверяват клиенти по целия свят.  
-- Многостранно приложение: Подходящо за банки, хотели, магазини, общности, офиси и други — комбинира аларми, CCTV и облачни технологии за централизирано управление.  
-- Иновативна рентабилност: Лесни за инсталиране системи с многоканална комуникация (PSTN, 4G, TCP/IP) и разширяеми функции на конкурентни цени.  
-- Удовлетвореност на клиентите: Доверено от клиенти по целия свят за надеждни продукти и системи за сигурност.
+- Dokazana Stručnost: Od 2006. godine, isporučujemo skalabilna rješenja za alarm protiv provale i protuprovalne sustave kojima vjeruju klijenti širom svijeta.  
+- Svestrane Primjene: Pogodno za banke, hotele, trgovine, zajednice, urede i više—kombinacija alarma, CCTV-a i cloud tehnologije za centraliziranu kontrolu.  
+- Inovacija po Pristupačnoj Cijeni: Lako instalirani sustavi s višekanalnom komunikacijom (PSTN, 4G, TCP/IP) i proširivim značajkama po konkurentnim cijenama.  
+- Zadovoljstvo Klijenata: Povjerenje klijenata širom svijeta u pouzdane sigurnosne proizvode i sustave.
 
-[Виж клиентски примери за инсталации](https://www.instagram.com/p/DJ0VWautwqA/?img_index=2)
+[Pogledaj Studije Slučajeva Instalacije Klijenata](https://www.instagram.com/p/DJ0VWautwqA/?img_index=2)
 
-## Отзиви от клиенти
+## Iskustva Klijenata
 
-- “Алармата против взлом е отлична, инсталирах една система и работи прекрасно.” – Rabeah Arnous, CEO  
-- “Страхотна система… Инсталирах я и клиентът ми беше много доволен. 5-звезден рейтинг.” – Bassey Tom, CEO  
-- “Системата за мрежово наблюдение на аларми е чудесна – лесна за използване, лесна за инсталиране и с реално време на предаване. Очакваме следващата поръчка.” – Ben Takan, Security Coordinator
+- “Alarm protiv provale je izvrstan, instalirao sam jedan set i radi odlično.” – Rabeah Arnous, CEO  
+- “Nevjerojatan sustav… Instalirali smo ga i moj klijent je bio vrlo zadovoljan. Ocjena 5 zvjezdica.” – Bassey Tom, CEO  
+- “Mrežni sustav praćenja alarma je odličan, jednostavan za korištenje, jednostavan za instalaciju i iznad stvarnog vremenskog prijenosa. Radujemo se našoj sljedećoj narudžbi.” – Ben Takan, Koordinator Sigurnosti
 
-## Започнете сега
+## Počnite
 
-Независимо дали сте интегратор на системи за сигурност, дистрибутор или краен потребител, Athenalarm предлага висококачествени продукти за защита от взлом и системи за аларми при проникване, съобразени с вашите нужди.
+Bilo da ste integrator sigurnosti, distributer ili krajnji korisnik, Athenalarm pruža visokokvalitetne protuprovalne alarme i sustave alarma protiv provale prilagođene vašim potrebama.
 
-[Посетете Athenalarm.com сега – Получете безплатна оферта още днес!](https://athenalarm.com/)
+[Posjeti Athenalarm.com Sada – Dobijte Besplatnu Ponudu Danas!](https://athenalarm.com/)
 
-## Свържете се с нас директно
+## Kontaktirajte Nas Izravno
 
-- Уебсайт: [https://athenalarm.com/](https://athenalarm.com/)  
-- Имейл: [info@athenalarm.com](mailto:info@athenalarm.com)  
-- Мобилен/WhatsApp/Viber: [+86 13662299642](https://api.whatsapp.com/send?phone=8613662299642)
+- Web-stranica: [https://athenalarm.com/](https://athenalarm.com/)  
+- E-mail: [info@athenalarm.com](mailto:info@athenalarm.com)  
+- Mobitel/WhatsApp/Viber: [+86 13662299642](https://api.whatsapp.com/send?phone=8613662299642)
 
-## Последвайте ни
+## Pratite Nas
 
 - [YouTube](https://www.youtube.com/channel/UCP0_Wg3aylBn69eBIH2Fazg)  
 - [LinkedIn](https://www.linkedin.com/company/athenalarm/)  
