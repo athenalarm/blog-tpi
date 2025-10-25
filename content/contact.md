@@ -1,31 +1,31 @@
 ---
-title: "Contacte"
+title: "ኣገናኝ"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 ---
 
-Som aquí per ajudar-te a trobar els millors productes d’alarma contra robatoris i solucions de seguretat per al teu negoci. Tant si necessites assistència tècnica, informació de distribució o detalls sobre col·laboracions, el nostre equip experimentat està preparat per ajudar-te.
+ንስኻት ኣብ ገበሬካ ዝተስፋፋ ዝሓልፍ ኣብ መሳርሒ ዝተመረጹ ዝተፈላለዩ የምንታይ ዘለኹም መጠቀም ዝተዛረብ መሳርሒ ናብ ንግድካ ናብ ሰላምታ እንከሎ። እንተ ስለ ቴክኒካል ድጋፍ፣ ዝተፈላለዩ ዝኾነ ኣብ መደብ መልእኽቲ ወይ ሓበሬታ ስምምዕታት ዝስለኩም ኣሎ፣ ተሞክሮ ዝተሰማማዕ ቡድናትና ንስራሕ ኣሎና።
 
-## 📍 Contacta amb Athenalarm
+## 📍 ኣገናኝ ከ Athenalarm
 
-**Adreça:**  
+**ኣድራሻ:**  
 D910, Silver Star Scientific and Technical Building,  
 Guanlan, Longhua, Shenzhen, Guangdong, China  
 
-**Correu electrònic:**  
+**ኢሜይል:**  
 [info@athenalarm.com](mailto:info@athenalarm.com)
 
-**Mòbil / WhatsApp / Viber:**  
+**ሞባይል / WhatsApp / Viber:**  
 [+86 136 6229 9642](https://api.whatsapp.com/send?phone=8613662299642)
 
-**Lloc web:**  
+**ድሕሪት መለኪ:**  
 [https://athenalarm.com](https://athenalarm.com)
 
 ---
 
-## 🌐 Connecta amb nosaltres
+## 🌐 ከንከናኽ ከኣንተ
 
-Mantén-te al dia amb les nostres últimes innovacions en seguretat, estudis de casos i llançaments de productes:
+ናብ ኣዳራሽ ዝኸበር ዝምልከት መሳርሒ ሰላምታ፣ ጉዳይ ጥናታትን እና ምርታት ምንታይ ምርታት ዝተለቀሰ መረዳእታ ኣብ ዝርርብ እንተኾነ ንስራሕ ኣሎ፦
 
 - [LinkedIn](https://www.linkedin.com/company/athenalarm)
 - [Facebook](https://www.facebook.com/athenalarm)
@@ -36,4 +36,4 @@ Mantén-te al dia amb les nostres últimes innovacions en seguretat, estudis de 
 
 ---
 
-> _Athenalarm — Fabricant professional d’alarmes contra robatoris i solucions de monitoratge d’alarma en xarxa._
+> _Athenalarm — ብሓላፍነት ዝተሰማማዕ ዝተመርጹ ኣብ ቤት መጠቀም መሳርሒ እንተ ዝተዋህደ ናይ መስመር መሳርሒ ኣስተዳደር ኣሎ።_
