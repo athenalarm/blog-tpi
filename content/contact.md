@@ -1,31 +1,31 @@
 ---
-title: "Contact"
+title: "Байланыс"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 ---
 
-Suntem aici pentru a vă ajuta să găsiți cele mai bune produse de alarmă antiefracție și soluții de securitate pentru afacerea dvs. Indiferent dacă aveți nevoie de asistență tehnică, detalii despre distribuție sau informații despre parteneriate, echipa noastră cu experiență este pregătită să vă ofere suportul necesar.
+Біз сіздің бизнесіңізге ең жақсы ұрлыққа қарсы дабыл жүйелері мен қауіпсіздік шешімдерін табуға көмектесуге дайынбыз. Сізге техникалық қолдау, дистрибуция туралы ақпарат немесе серіктестік жөнінде кеңес қажет болса да, біздің тәжірибелі командамыз әрдайым көмектесуге әзір.
 
-## 📍 Contactați Athenalarm
+## 📍 Athenalarm компаниясымен байланысу
 
-**Adresă:**  
+**Мекенжай:**  
 D910, Silver Star Scientific and Technical Building,  
 Guanlan, Longhua, Shenzhen, Guangdong, China  
 
-**Email:**  
+**Электрондық пошта:**  
 [info@athenalarm.com](mailto:info@athenalarm.com)
 
-**Mobil / WhatsApp / Viber:**  
+**Мобильді / WhatsApp / Viber:**  
 [+86 136 6229 9642](https://api.whatsapp.com/send?phone=8613662299642)
 
-**Website:**  
+**Веб-сайт:**  
 [https://athenalarm.com](https://athenalarm.com)
 
 ---
 
-## 🌐 Conectați-vă cu noi
+## 🌐 Бізбен байланыста болыңыз
 
-Rămâneți la curent cu cele mai recente inovații în domeniul securității, studii de caz și lansări de produse:
+Біздің соңғы қауіпсіздік жаңалықтарымыздан, тәжірибелік зерттеулерден және жаңа өнім шығарылымдарынан хабардар болыңыз:
 
 - [LinkedIn](https://www.linkedin.com/company/athenalarm)
 - [Facebook](https://www.facebook.com/athenalarm)
@@ -36,4 +36,4 @@ Rămâneți la curent cu cele mai recente inovații în domeniul securității, 
 
 ---
 
-> _Athenalarm — Producător profesionist de sisteme de alarmă antiefracție și soluții de monitorizare a alarmelor prin rețea._
+> _Athenalarm — кәсіби ұрлыққа қарсы дабыл жүйелерінің өндірушісі және желілік дабылдарды бақылау шешімдерінің провайдері._

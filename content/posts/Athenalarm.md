@@ -1,5 +1,5 @@
 ---
-title: "Athenalarm – Producător Profesional de Sisteme Antiefracție & Soluții de Monitorizare a Alarmelor prin Rețea"
+title: "Athenalarm – Кәсіби ұры дабылы өндірушісі және желілік дабыл мониторинг шешімдері"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 type: "posts"
@@ -7,67 +7,67 @@ type: "posts"
 
 ![Athenalarm Logo](https://athenalarm.com/wp-content/uploads/2025/05/athenalarm_home.png)
 
-## Prezentare generală
+## Шолу
 
-Fondată în 2006, Athenalarm este un producător profesional de sisteme antiefracție, specializat în alarme de intruziune și soluții de monitorizare a alarmelor prin rețea. Produsele noastre oferă soluții de securitate fiabile și practice pentru afaceri, instituții și comunități rezidențiale. Ne concentrăm pe sisteme de alarmă de nivel industrial care combină alarmele de intruziune cu CCTV pentru verificare în timp real, oferind diagnosticare la distanță și gestionare centralizată. Aceste sisteme sunt potrivite pentru diverse sectoare, inclusiv bănci, educație, retail, sănătate și comunități rezidențiale, fiind de încredere pentru clienți din întreaga lume.
+2006 жылы құрылған Athenalarm — ұрыға қарсы дабыл жүйелерін және желілік дабыл мониторинг жүйелерін өндіруге маманданған кәсіби өндіруші. Біздің өнімдер бизнеске, мекемелерге және тұрғын үй қауымдастықтарына сенімді және тиімді қауіпсіздік шешімдерін ұсынады. Біз нақты уақыттағы бейне тексеру үшін ұрыға қарсы дабылдарды бейнебақылау жүйесімен (CCTV) біріктіретін өнеркәсіптік деңгейдегі енуге қарсы жүйелерге назар аударамыз, олар қашықтан диагностика мен орталықтандырылған басқаруды қолдайды. Бұл жүйелер банк, білім беру, бөлшек сауда, денсаулық сақтау және тұрғын үй салаларында кеңінен қолданылады және бүкіл әлемдегі клиенттердің сеніміне ие болды.
 
-Gama noastră extinsă de produse acoperă panouri de alarmă, software de alarmă, senzori de mișcare, detectoare de alarmă, componente de alarmă, sisteme pentru case inteligente și dispozitive de avertizare vocală. Aceste produse antiefracție oferă acoperire completă de securitate pentru diverse aplicații, de la seifuri bancare până la perimetre comunitare și facilități ale companiilor.
+Біздің кең өнім ассортиментімізге дабыл панельдері, дабыл бағдарламалық жасақтамасы, қозғалыс сенсорлары, дабыл детекторлары, дабыл компоненттері, ақылды үй жүйелері және дауыс еске салғыш құрылғылары кіреді. Бұл ұрыға қарсы дабыл өнімдері банк қоймаларынан бастап тұрғын аудандар мен кәсіпорын нысандарына дейінгі әртүрлі қолдану аймақтарына кешенді қауіпсіздік қорғанысын қамтамасыз етеді.
 
-În plus, oferim servicii OEM și de personalizare a mărcii, permițând partenerilor să lanseze sisteme de alarmă antiefracție sub etichetă proprie, cu personalizare hardware, manuale multilingve și suport pentru ambalare. Indiferent dacă sunteți distribuitor, integrator sau utilizator final, ofertele Athenalarm permit implementarea fără probleme a soluțiilor profesionale de securitate la nivel global.
+Сонымен қатар, біз OEM және жеке бренд қызметтерін ұсынамыз, бұл серіктестерге жеке жапсырмалы енуге қарсы дабыл жүйелерін іске қосуға мүмкіндік береді: жабдықты баптау, көптілді нұсқаулықтар мен орау қолдауы. Сіз дистрибьютор, интегратор немесе соңғы пайдаланушы болсаңыз да, Athenalarm шешімдері бүкіл әлем бойынша кәсіби қауіпсіздік жүйелерін оңай енгізуге мүмкіндік береді.
 
 ![Athenalarm Factory](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-factory-03-540.jpg)
 
-## Produse
+## Өнімдер
 
-![Panouri de alarmă industriale din seria AS-9000 instalate într-un complex comercial](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-burglar-alarms-1024.jpg)
+![Сауда кешенінде орнатылған өнеркәсіптік AS-9000 сериялы дабыл панельдері](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-burglar-alarms-1024.jpg)
 
-| Linie de produse | Beneficii cheie | Ideal pentru |
-|------------------|----------------|---------------|
-| Seria AS-9000 Panouri de alarmă | Comunicare pe canale multiple (PSTN, 4G, TCP/IP), zone extensibile (16 cablate, 30 wireless, până la 1.656 prin module), tastatură LCD cu comenzi vocale, detecție de sabotaj, înregistrare automată a evenimentelor | Bănci, parcuri industriale, școli, complexe comerciale, comunități rezidențiale |
-| Soluții de monitorizare a alarmelor prin rețea | Gestionare centralizată, integrează alarmele de intruziune cu CCTV și platforme cloud, alerte în timp real, înregistrare video, redirecționare pe mai multe niveluri, diagnosticare de la distanță | Sucursale bancare, bancomate, seifuri, hoteluri, magazine, întreprinderi, perimetre, comunități rezidențiale |
-| Seria AA-100 Dispozitive de avertizare vocală | Alerte vocale personalizabile (MP3), redare bidirecțională, mod silențios de alarmă, integrare cablată/senza fir, moduri duble de iluminare | Spații comerciale, spitale, birouri, hoteluri, bănci, depozite, locații rezidențiale |
-| Detectoare de alarmă | Senzori PIR de mișcare (AT-805, AT-806), detector fotoelectric de fum (AS-603PC), detector de gaz (AS-705), detector digital de vibrații (AS-971), contact magnetic pentru uși (AA-56), butoane de panică (AA-28B, AA-07) | Locuințe, birouri, bănci, hoteluri, spitale, depozite, spații comerciale |
-| Sisteme pentru case inteligente | Sistem de alarmă GSM/WIFI (AS-6000), se integrează cu alți senzori și panouri pentru alerte automate și monitorizare de la distanță | Comunități rezidențiale, birouri, mici afaceri |
+| Өнім желісі | Негізгі артықшылықтар | Мінсіз қолданыс |
+|--------------|----------------------|-----------------|
+| **AS-9000 Сериялы дабыл панельдері** | Көп арналы байланыс (PSTN, 4G, TCP/IP), кеңейтілетін аймақтар (16 сымды, 30 сымсыз, модуль арқылы 1,656-ға дейін), дауыстық нұсқаулары бар LCD пернетақтасы, бұзылуды анықтау, автоматты оқиға журналы | Банктер, өнеркәсіптік аймақтар, мектептер, сауда кешендері, тұрғын үй қауымдастықтары |
+| **Желілік дабыл мониторинг шешімдері** | Орталықтандырылған басқару, енуге қарсы дабылдарды CCTV және бұлттық платформалармен біріктіреді, нақты уақыттағы ескерту терезелері, бейнежазба, көп деңгейлі жіберу, қашықтан диагностика | Банк филиалдары, банкоматтар, сейфтер, қонақ үйлер, дүкендер, кәсіпорындар, периметрлер, тұрғын үйлер |
+| **AA-100 Сериялы дауыс еске салғыштар** | Реттелетін дауыс ескертулері (MP3), екі жақты ойнату, үнсіз режим, сымды/сымсыз біріктіру, қос жарықтандыру режимі | Сауда нүктелері, ауруханалар, кеңселер, қонақ үйлер, банктер, қоймалар, тұрғын нысандар |
+| **Дабыл детекторлары** | PIR қозғалыс сенсорлары (AT-805, AT-806), фотоэлектрлік түтін детекторы (AS-603PC), газ детекторы (AS-705), цифрлық діріл детекторы (AS-971), есік контактісі (AA-56), үрей түймелері (AA-28B, AA-07) | Үйлер, кеңселер, банктер, қонақ үйлер, ауруханалар, қоймалар, сауда нүктелері |
+| **Ақылды үй жүйелері** | GSM/WIFI дабыл жүйесі (AS-6000), басқа сенсорлар және панельдермен біріктіріліп, автоматтандырылған ескерту және қашықтан бақылау қызметін атқарады | Тұрғын үйлер, кеңселер, шағын кәсіпорындар |
 
-[Urmărește videoclipul 1](https://www.youtube.com/watch?v=fxNFCblKrTA)  
-[Urmărește videoclipul 2](https://www.youtube.com/watch?v=FouMQpGDZNk)
+[Бейне 1-ді қарау](https://www.youtube.com/watch?v=fxNFCblKrTA)  
+[Бейне 2-ні қарау](https://www.youtube.com/watch?v=FouMQpGDZNk)
 
-## Servicii OEM & Personalizare a mărcii
+## OEM және жеке бренд қызметтері
 
-Oferim soluții personalizate și de tip private-label pentru distribuitori și integratori: personalizare hardware, manuale multilingve, ambalare și suport pentru branding. Acest lucru permite partenerilor să lanseze rapid și profesionist produse de alarmă antiefracție sub propria marcă.
+Біз дистрибьюторлар мен интеграторлар үшін жеке жапсырма және теңшелетін шешімдер ұсынамыз: жабдықты баптау, көптілді нұсқаулықтар, орау және бренд қолдауы. Бұл серіктестерге өз брендімен ұрыға қарсы дабыл өнімдерін тез әрі кәсіби іске қосуға мүмкіндік береді.
 
-Ideal pentru: distribuitori și integratori care lansează produse de securitate de marcă proprie
+Мақсатты топ: Брендтелген қауіпсіздік өнімдерін ұсынатын дистрибьюторлар мен интеграторлар
 
-[Vezi exemplu OEM](https://www.instagram.com/p/CTj0hpEjxJ0/)
+[OEM үлгісін қарау](https://www.instagram.com/p/CTj0hpEjxJ0/)
 
-## De ce Athenalarm se remarcă
+## Неліктен Athenalarm ерекше
 
-- Expertiză dovedită: Din 2006, furnizăm soluții scalabile de alarme de intruziune și antiefracție de încredere la nivel global.  
-- Aplicații versatile: Ideal pentru bănci, hoteluri, magazine, comunități, birouri și multe altele — combinând alarme, CCTV și tehnologie cloud pentru control centralizat.  
-- Inovație rentabilă: Sisteme ușor de instalat, cu comunicare pe canale multiple (PSTN, 4G, TCP/IP) și funcții extensibile la prețuri competitive.  
-- Satisfacția clienților: De încredere pentru clienți din întreaga lume datorită produselor și sistemelor de securitate fiabile.
+- Дәлелденген тәжірибе: 2006 жылдан бері бүкіл әлем бойынша сенімге ие масштабталатын енуге қарсы және ұрыға қарсы дабыл шешімдерін жеткізу.  
+- Әмбебап қолдану: Банктер, қонақ үйлер, дүкендер, қауымдастықтар, кеңселер және басқа да нысандар үшін қолайлы – дабылдар, CCTV және бұлттық технологияны орталықтандырылған басқару үшін біріктіреді.  
+- Үнемді инновация: Оңай орнатылатын жүйелер көп арналы байланыс (PSTN, 4G, TCP/IP) және кеңейтілетін функциялармен бәсекеге қабілетті бағамен.  
+- Клиент қанағаты: Сенімді қауіпсіздік өнімдері мен жүйелері үшін бүкіл әлем клиенттерінің сеніміне ие.
 
-[Vezi studii de caz pentru instalările clienților](https://www.instagram.com/p/DJ0VWautwqA/?img_index=2)
+[Тұтынушы орнату мысалдарын көру](https://www.instagram.com/p/DJ0VWautwqA/?img_index=2)
 
-## Mărturii ale clienților
+## Тұтынушылар пікірлері
 
-- „Sistemul de alarmă de intruziune este excelent, am instalat un set și funcționează perfect.” – Rabeah Arnous, CEO  
-- „Sistem uimitor… L-am instalat și clientul meu a fost foarte mulțumit. Evaluare de 5 stele.” – Bassey Tom, CEO  
-- „Sistemul de monitorizare a alarmelor prin rețea este foarte bun, ușor de utilizat, ușor de instalat și transmite în timp real. Așteptăm cu nerăbdare următoarea comandă.” – Ben Takan, Coordonator de securitate
+- “Енуге қарсы дабыл тамаша, бір жиынтық орнаттым, өте жақсы жұмыс істейді.” – Rabeah Arnous, CEO  
+- “Керемет жүйе… Орнаттым, клиентім өте риза болды. 5 жұлдыз.” – Bassey Tom, CEO  
+- “Желілік дабыл мониторинг жүйесі өте жақсы, қолдануға және орнатуға оңай, нақты уақыттағы беріліс тамаша. Келесі тапсырысты асыға күтеміз.” – Ben Takan, Security Coordinator
 
-## Începe acum
+## Бастау
 
-Indiferent dacă sunteți integrator de securitate, distribuitor sau utilizator final, Athenalarm oferă produse de alarmă antiefracție și sisteme de alarmă de intruziune de înaltă calitate, adaptate nevoilor dumneavoastră.
+Сіз қауіпсіздік интеграторы, дистрибьютор немесе соңғы пайдаланушы болсаңыз да, Athenalarm сіздің қажеттіліктеріңізге бейімделген жоғары сапалы ұрыға қарсы дабыл өнімдері мен енуге қарсы жүйелерді ұсынады.
 
-[Vizitează Athenalarm.com acum – Obține o cotație gratuită astăzi!](https://athenalarm.com/)
+[Athenalarm.com сайтына қазір кіріп – тегін баға ұсынысын алыңыз!](https://athenalarm.com/)
 
-## Contactați-ne direct
+## Бізбен тікелей байланысыңыз
 
-- Site web: [https://athenalarm.com/](https://athenalarm.com/)  
-- E-mail: [info@athenalarm.com](mailto:info@athenalarm.com)  
-- Mobil/WhatsApp/Viber: [+86 13662299642](https://api.whatsapp.com/send?phone=8613662299642)
+- Веб-сайт: [https://athenalarm.com/](https://athenalarm.com/)  
+- Электрондық пошта: [info@athenalarm.com](mailto:info@athenalarm.com)  
+- Мобильді/WhatsApp/Viber: [+86 13662299642](https://api.whatsapp.com/send?phone=8613662299642)
 
-## Urmărește-ne
+## Бізді қадағалаңыз
 
 - [YouTube](https://www.youtube.com/channel/UCP0_Wg3aylBn69eBIH2Fazg)  
 - [LinkedIn](https://www.linkedin.com/company/athenalarm/)  
