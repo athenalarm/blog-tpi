@@ -1,5 +1,5 @@
 ---
-title: "Athenalarm – Profesionalni Proizvođač Protuprovalnih Alarmnih Sustava & Rješenja za Mrežno Praćenje Alarma"
+title: "Athenalarm – Мэргэжлийн хулгайн дохиоллын үйлдвэрлэгч ба сүлжээний дохиоллын хяналтын шийдлүүд"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 type: "posts"
@@ -7,67 +7,67 @@ type: "posts"
 
 ![Athenalarm Logo](https://athenalarm.com/wp-content/uploads/2025/05/athenalarm_home.png)
 
-## Pregled
+## Тойм
 
-Osnovan 2006. godine, Athenalarm je profesionalni proizvođač protuprovalnih alarma specijaliziran za sustave alarma protiv provale i rješenja za mrežno praćenje alarma. Naši proizvodi pružaju pouzdana i praktična sigurnosna rješenja za poduzeća, institucije i stambene zajednice. Fokusiramo se na industrijske sustave alarma protiv provale koji kombiniraju alarme s CCTV-om za verifikaciju u stvarnom vremenu, podržavajući daljinsku dijagnostiku i centralizirano upravljanje. Ovi sustavi pogodni su za različite sektore uključujući bankarstvo, obrazovanje, maloprodaju, zdravstvenu zaštitu i stambene zajednice te uživaju povjerenje klijenata širom svijeta.
+2006 онд байгуулагдсан **Athenalarm** нь халдлага илрүүлэх болон сүлжээний дохиоллын хяналтын системд мэргэшсэн **мэргэжлийн хулгайн дохиоллын үйлдвэрлэгч** юм. Манай бүтээгдэхүүнүүд нь аж ахуйн нэгжүүд, байгууллагууд, орон сууцны хорооллуудад зориулсан найдвартай, хэрэгцээтэй хамгаалалтын шийдлүүдийг санал болгодог. Бид **CCTV камерын бодит цагийн баталгаажуулалттай** халдлага илрүүлэх системийг төвлөрсөн удирдлага, алсын оношлогоотой хослуулсан **үйлдвэрийн түвшний халдлага илрүүлэх систем** боловсруулахад анхаардаг. Эдгээр систем нь банк, боловсрол, жижиглэн худалдаа, эрүүл мэнд, орон сууц зэрэг салбаруудад тохиромжтой бөгөөд дэлхий даяар хэрэглэгчдийн итгэлийг хүлээсэн байдаг.
 
-Naš široki asortiman proizvoda obuhvaća alarmne panele, alarmni softver, senzore pokreta, detektore alarma, komponente alarma, pametne kućne sustave i uređaje za glasovne podsjetnike. Ovi proizvodi protuprovalnih alarma pružaju sveobuhvatnu sigurnosnu zaštitu za razne primjene, od bankovnih trezora do perimetara zajednica i poduzeća.
+Манай өргөн хүрээний бүтээгдэхүүнд **дохиоллын самбарууд, дохиоллын програм хангамж, хөдөлгөөн мэдрэгч, дохиоллын мэдрэгчүүд, дохиоллын бүрэлдэхүүн хэсгүүд, ухаалаг гэрийн системүүд, дуу хоолойгоор сануулах төхөөрөмжүүд** багтдаг. Эдгээр хулгайн дохиоллын бүтээгдэхүүнүүд нь банкны сейфээс эхлээд хорооллын хашаа, үйлдвэрийн байгууламжууд хүртэл олон талын хэрэглээнд бүрэн хамгаалалт үзүүлдэг.
 
-Osim toga, nudimo OEM i usluge prilagođenog brendiranja, omogućujući partnerima lansiranje privatnih sustava alarma s prilagodbom hardvera, višejezičnim uputama i podrškom za pakiranje. Bilo da ste distributer, integrator ili krajnji korisnik, Athenalarm nudi besprijekornu implementaciju profesionalnih sigurnosnih rješenja širom svijeta.
+Мөн бид **OEM болон захиалгат брэндийн үйлчилгээ** үзүүлдэг бөгөөд үүний хүрээнд түншүүд маань хувийн брэндийн халдлага илрүүлэх системийг техник хангамжийн тохируулга, олон хэл дээрх гарын авлага, сав баглаа боодлын дэмжлэгтэйгээр зах зээлд гаргах боломжтой. Та борлуулагч, интегратор эсвэл эцсийн хэрэглэгч байсан ч Athenalarm-ийн шийдлүүдийг ашиглан мэргэжлийн хамгаалалтын системийг дэлхий даяар амжилттай нэвтрүүлж чадна.
 
 ![Athenalarm Factory](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-factory-03-540.jpg)
 
-## Proizvodi
+## Бүтээгдэхүүнүүд
 
-![Industrial AS-9000 series alarm panels installed in a commercial complex](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-burglar-alarms-1024.jpg)
+![Аж үйлдвэрийн AS-9000 цуврал дохиоллын самбаруудыг худалдааны цогцолборт суурилуулсан зураг](https://athenalarm.com/wp-content/uploads/2022/05/Athenalarm-burglar-alarms-1024.jpg)
 
-| Linija Proizvoda | Ključne Prednosti | Idealno Za |
-|-----------------|-----------------|------------|
-| AS-9000 Series Alarmni Paneli | Višekanalna komunikacija (PSTN, 4G, TCP/IP), proširive zone (16 ožičenih, 30 bežičnih, do 1,656 putem modula), LCD tipkovnica s glasovnim uputama, detekcija sabotaže, automatsko zapisivanje događaja | Banke, industrijski parkovi, škole, trgovački kompleksi, stambene zajednice |
-| Rješenja za Mrežno Praćenje Alarma | Centralizirano upravljanje, integrira alarme protiv provale s CCTV-om i cloud platformama, upozorenja alarma u stvarnom vremenu, snimanje videozapisa, višerazinsko prosljeđivanje, daljinska dijagnostika | Podružnice banaka, bankomati, trezori, hoteli, trgovine, poduzeća, perimetri, stambene zajednice |
-| AA-100 Series Glasovni Podsjetnici | Prilagodljiva glasovna upozorenja (MP3), dvosmjerno reprodukcija, način utišanog alarma, integracija ožičena/bežična, dvostruki načini osvjetljenja | Maloprodajni prostori, bolnice, uredi, hoteli, banke, skladišta, stambeni objekti |
-| Detektori Alarma | PIR senzori pokreta (AT-805, AT-806), fotoelektrični detektor dima (AS-603PC), detektor plina (AS-705), digitalni detektor vibracija (AS-971), kontakt vrata (AA-56), tipke panike (AA-28B, AA-07) | Kuće, uredi, banke, hoteli, bolnice, skladišta, maloprodajni prostori |
-| Pametni Kućni Sustavi | GSM/WIFI alarmni sustav (AS-6000), integrira se s drugim senzorima i panelima za automatizirana upozorenja i daljinsko praćenje | Stambene zajednice, uredi, mala poduzeća |
+| Бүтээгдэхүүний шугам | Гол давуу талууд | Тохиромжтой салбарууд |
+|-----------------------|------------------|-------------------------|
+| **AS-9000 Цувралын дохиоллын самбарууд** | Олон сувгийн харилцаа (PSTN, 4G, TCP/IP), өргөтгөх бүсүүд (16 утсан, 30 утасгүй, модулиар 1,656 хүртэл), LCD гар удирдлагатай, дуу хоолойны заавартай, эвдрэл илрүүлэх, автоматаар үйл явдлыг бүртгэх | Банкууд, үйлдвэрлэлийн паркууд, сургуулиуд, худалдааны төвүүд, орон сууцны хорооллууд |
+| **Сүлжээний дохиоллын хяналтын шийдлүүд** | Төвлөрсөн удирдлага, халдлага илрүүлэх системийг CCTV болон үүлэн платформтой нэгтгэдэг, бодит цагийн дохиоллын цонх гаргах, бичлэг хийх, олон түвшний дамжуулалт, алсын оношлогоо | Банкны салбарууд, АТМ-ууд, сейфүүд, зочид буудлууд, дэлгүүрүүд, аж ахуйн нэгжүүд, хашаа, орон сууцны хорооллууд |
+| **AA-100 Цувралын дуу хоолойгоор сануулах төхөөрөмжүүд** | Захиалгат дууны дохио (MP3), хоёр чиглэлтэй тоглуулах, дуугүй дохиоллын горим, утсан/утасгүй холболт, хоёр горимтой гэрэлтүүлэг | Жижиглэнгийн дэлгүүрүүд, эмнэлгүүд, оффисууд, зочид буудлууд, банкууд, агуулахууд, орон сууцны байрууд |
+| **Дохиоллын мэдрэгчүүд** | PIR хөдөлгөөн мэдрэгч (AT-805, AT-806), гэрэл мэдрэгч утааны мэдрэгч (AS-603PC), хий илрүүлэгч (AS-705), дижитал доргилт мэдрэгч (AS-971), хаалганы холбоо (AA-56), яаралтай тусламжийн товчлуурууд (AA-28B, AA-07) | Гэрүүд, оффисууд, банкууд, зочид буудлууд, эмнэлгүүд, агуулахууд, дэлгүүрүүд |
+| **Ухаалаг гэрийн системүүд** | GSM/WIFI дохиоллын систем (AS-6000), бусад мэдрэгч болон самбаруудтай холбогдон автомат дохиолол, алсын хяналт хийх | Орон сууцны хороолол, оффис, жижиг бизнесүүд |
 
-[Pogledaj Video 1](https://www.youtube.com/watch?v=fxNFCblKrTA)  
-[Pogledaj Video 2](https://www.youtube.com/watch?v=FouMQpGDZNk)
+[Видео 1 үзэх](https://www.youtube.com/watch?v=fxNFCblKrTA)  
+[Видео 2 үзэх](https://www.youtube.com/watch?v=FouMQpGDZNk)
 
-## OEM & Prilagođene Usluge Brendiranja
+## OEM болон Захиалгат Брэндийн Үйлчилгээ
 
-Nudimo privatne i prilagođene proizvode za distributere i integratore: prilagodbu hardvera, višejezične upute, pakiranje i podršku za brendiranje. Omogućuje partnerima brzo i profesionalno lansiranje brendiranih proizvoda protuprovalnih alarma.
+Бид борлуулагчид болон интеграторуудад зориулсан **хувийн шошготой ба захиалгат шийдлүүдийг** санал болгодог: техник хангамжийн тохируулга, олон хэл дээрх гарын авлага, сав баглаа боодол ба брэндийн дэмжлэг. Энэ нь түншүүдэд өөрийн брэндийн хулгайн дохиоллын бүтээгдэхүүнийг хурдан, мэргэжлийн түвшинд гаргах боломж олгодог.
 
-Idealno Za: Distributere i integratore koji lansiraju brendirane sigurnosne proizvode
+**Тохиромжтой хэрэглэгчид:** Хамгаалалтын бүтээгдэхүүнээ брэндээрээ гаргах гэж буй борлуулагчид, интеграторуудад.
 
-[Pogledaj OEM Primjer](https://www.instagram.com/p/CTj0hpEjxJ0/)
+[OEM Жишээг үзэх](https://www.instagram.com/p/CTj0hpEjxJ0/)
 
-## Zašto Athenalarm Izdvaja
+## Яагаад Athenalarm Онцгой вэ
 
-- Dokazana Stručnost: Od 2006. godine, isporučujemo skalabilna rješenja za alarm protiv provale i protuprovalne sustave kojima vjeruju klijenti širom svijeta.  
-- Svestrane Primjene: Pogodno za banke, hotele, trgovine, zajednice, urede i više—kombinacija alarma, CCTV-a i cloud tehnologije za centraliziranu kontrolu.  
-- Inovacija po Pristupačnoj Cijeni: Lako instalirani sustavi s višekanalnom komunikacijom (PSTN, 4G, TCP/IP) i proširivim značajkama po konkurentnim cijenama.  
-- Zadovoljstvo Klijenata: Povjerenje klijenata širom svijeta u pouzdane sigurnosne proizvode i sustave.
+- **Батлагдсан туршлага:** 2006 оноос хойш дэлхий даяар итгэл хүлээсэн өргөтгөж болох халдлага илрүүлэх ба хулгайн дохиоллын шийдлүүдийг хүргэж байна.  
+- **Олон талын хэрэглээ:** Банкууд, зочид буудлууд, дэлгүүрүүд, хорооллууд, оффисууд болон бусад салбарт тохиромжтой — дохиолол, CCTV, үүлэн технологийг төвлөрсөн хяналттайгаар хослуулдаг.  
+- **Өртөг багатай инноваци:** Олон сувгийн холболт (PSTN, 4G, TCP/IP)-той, өргөтгөж болох, хялбар суурилуулалттай системүүдийг өрсөлдөхүйц үнээр санал болгодог.  
+- **Хэрэглэгчийн сэтгэл ханамж:** Дэлхий даяарх хэрэглэгчид найдвартай хамгаалалтын бүтээгдэхүүнүүдэд итгэдэг.
 
-[Pogledaj Studije Slučajeva Instalacije Klijenata](https://www.instagram.com/p/DJ0VWautwqA/?img_index=2)
+[Хэрэглэгчийн суурилуулалтын жишээг үзэх](https://www.instagram.com/p/DJ0VWautwqA/?img_index=2)
 
-## Iskustva Klijenata
+## Хэрэглэгчийн Сэтгэгдэл
 
-- “Alarm protiv provale je izvrstan, instalirao sam jedan set i radi odlično.” – Rabeah Arnous, CEO  
-- “Nevjerojatan sustav… Instalirali smo ga i moj klijent je bio vrlo zadovoljan. Ocjena 5 zvjezdica.” – Bassey Tom, CEO  
-- “Mrežni sustav praćenja alarma je odličan, jednostavan za korištenje, jednostavan za instalaciju i iznad stvarnog vremenskog prijenosa. Radujemo se našoj sljedećoj narudžbi.” – Ben Takan, Koordinator Sigurnosti
+- “Халдлага илрүүлэх дохиолол маш сайн, нэг иж бүрдэл суурилуулсан бөгөөд төгс ажиллаж байна.” – Rabeah Arnous, Гүйцэтгэх захирал  
+- “Гайхалтай систем... Суурилуулсан, үйлчлүүлэгч маань маш сэтгэл хангалуун байсан. 5 одтой үнэлгээ.” – Bassey Tom, Гүйцэтгэх захирал  
+- “Сүлжээний дохиоллын хяналтын систем үнэхээр сайн, ашиглахад хялбар, суурилуулахад хялбар бөгөөд бодит цагийн дамжуулалттай. Дараагийн захиалгаа хүлээж байна.” – Ben Takan, Хамгаалалтын зохицуулагч
 
-## Počnite
+## Эхлэхэд Бэлэн үү
 
-Bilo da ste integrator sigurnosti, distributer ili krajnji korisnik, Athenalarm pruža visokokvalitetne protuprovalne alarme i sustave alarma protiv provale prilagođene vašim potrebama.
+Та хамгаалалтын интегратор, борлуулагч эсвэл эцсийн хэрэглэгч байсан ч **Athenalarm** нь таны хэрэгцээнд нийцсэн өндөр чанартай хулгайн дохиоллын бүтээгдэхүүн ба халдлага илрүүлэх системийг санал болгодог.
 
-[Posjeti Athenalarm.com Sada – Dobijte Besplatnu Ponudu Danas!](https://athenalarm.com/)
+[Athenalarm.com-д зочлоорой – Өнөөдөр үнэгүй үнийн санал аваарай!](https://athenalarm.com/)
 
-## Kontaktirajte Nas Izravno
+## Шууд Холбоо Барих
 
-- Web-stranica: [https://athenalarm.com/](https://athenalarm.com/)  
-- E-mail: [info@athenalarm.com](mailto:info@athenalarm.com)  
-- Mobitel/WhatsApp/Viber: [+86 13662299642](https://api.whatsapp.com/send?phone=8613662299642)
+- Вэбсайт: [https://athenalarm.com/](https://athenalarm.com/)  
+- Имэйл: [info@athenalarm.com](mailto:info@athenalarm.com)  
+- Гар утас/WhatsApp/Viber: [+86 13662299642](https://api.whatsapp.com/send?phone=8613662299642)
 
-## Pratite Nas
+## Биднийг Дагаарай
 
 - [YouTube](https://www.youtube.com/channel/UCP0_Wg3aylBn69eBIH2Fazg)  
 - [LinkedIn](https://www.linkedin.com/company/athenalarm/)  

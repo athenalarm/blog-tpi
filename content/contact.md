@@ -1,31 +1,31 @@
 ---
-title: "Kontakt"
+title: "Холбоо барих"
 date: 2025-10-20T21:00:00+08:00
 draft: false
 ---
 
-Tu smo da vam pomognemo pronaći najbolje proizvode za protuprovalne alarmne sustave i sigurnosna rješenja za vaše poslovanje. Bilo da vam je potrebna tehnička podrška, informacije o distribuciji ili partnerski podaci, naš iskusni tim spreman je pružiti pomoć.
+Бид таны бизнесийн хэрэгцээнд хамгийн тохирсон хулгайчийн дохиоллын бүтээгдэхүүн болон аюулгүй байдлын шийдлийг олоход туслахад бэлэн байна. Та техникийн дэмжлэг, борлуулалтын мэдээлэл эсвэл түншлэлийн талаар сонирхож байгаа эсэхээс үл хамааран, манай туршлагатай баг таныг мэргэжлийн түвшинд дэмжинэ.
 
-## 📍 Kontaktirajte Athenalarm
+## 📍 **Athenalarm-тай холбогдох**
 
-**Adresa:**  
+**Хаяг:**  
 D910, Silver Star Scientific and Technical Building,  
 Guanlan, Longhua, Shenzhen, Guangdong, China  
 
-**Email:**  
+**Имэйл:**  
 [info@athenalarm.com](mailto:info@athenalarm.com)
 
-**Mobilni / WhatsApp / Viber:**  
+**Гар утас / WhatsApp / Viber:**  
 [+86 136 6229 9642](https://api.whatsapp.com/send?phone=8613662299642)
 
-**Web stranica:**  
+**Вэбсайт:**  
 [https://athenalarm.com](https://athenalarm.com)
 
 ---
 
-## 🌐 Povežite se s nama
+## 🌐 **Бидэнтэй холбогдоорой**
 
-Ostanite informirani o našim najnovijim sigurnosnim inovacijama, studijama slučaja i lansiranjima proizvoda:
+Манай хамгийн сүүлийн үеийн аюулгүй байдлын инноваци, хэрэглэгчийн кейс судалгаа болон шинэ бүтээгдэхүүний тухай мэдээллийг тогтмол хүлээн авна уу:
 
 - [LinkedIn](https://www.linkedin.com/company/athenalarm)
 - [Facebook](https://www.facebook.com/athenalarm)
@@ -36,4 +36,4 @@ Ostanite informirani o našim najnovijim sigurnosnim inovacijama, studijama slu�
 
 ---
 
-> _Athenalarm — Profesionalni proizvođač protuprovalnih alarma i rješenja za nadzor alarma putem mreže._
+> _Athenalarm — Мэргэжлийн хулгайчийн дохиоллын үйлдвэрлэгч ба сүлжээний дохиоллын хяналтын шийдлүүд._
