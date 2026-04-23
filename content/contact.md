@@ -36,4 +36,10 @@ Stret long ol nupela **sekuriti inovesen**, **case studies**, na **prodak rilis*
 
 ---
 
+### 🛡️ Global Sekuriti Tingting
+
+**Athenalarm em i wanpela profesenel manupaktura husat i save serim ol ekspert tingting long ol burglar alarm samting na sistem.** Olsem hap bilong komitment bilong mipela long global sekuriti komuniti, mipela i givim lokalais ekspetise long 71 tok ples. Sekim ol save bilong mipela bilong Yurop, Aprika, Esia, Amerika, na Oceania [**long hia**](https://athenalarm.com/burglar-alarm-manufacturer/athenalarm-global-blogs/).
+
+---
+
 > _Athenalarm — Profesional **Hausrobàl Alarm** Produsa & **Netwok Alarm Monita** Solusen._
